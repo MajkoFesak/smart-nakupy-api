@@ -1,0 +1,30 @@
+name: Aktualizácia Cien
+on:
+  schedule:
+    - cron: '0 3 * * *' # Spustí sa každý deň o 03:00 UTC
+  workflow_dispatch: # Umožní ti to spustiť aj manuálne kliknutím
+
+jobs:
+  update-prices:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Stiahnutie repozitára
+        uses: actions/checkout@v3
+
+      - name: Nastavenie Pythonu
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.10'
+
+      - name: Spustenie generátora cien
+        run: python generator.py
+
+      - name: Uloženie nových cien na GitHub
+        run: |
+          git config --global user.name "Automatický Robot"
+          git config --global user.email "robot@smartnakupy.sk"
+          git add aktualne_ceny.json
+          git commit -m "Denná aktualizácia cien" || echo "Ceny sa nezmenili"
+          git push
