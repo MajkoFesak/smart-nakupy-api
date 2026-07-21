@@ -1,0 +1,7828 @@
+{
+  "prod_1": {
+    "id": "prod_1",
+    "name": "Rožok biely Bio",
+    "desc": "Automaticky vygenerované ceny pre dňa 21.07.2026.",
+    "cat": "pecivo",
+    "sub": "zakladne",
+    "unit": "€/ks",
+    "onSale": false,
+    "saleUntil": "",
+    "tesco": {
+      "price": 1.69
+    },
+    "billa": {
+      "price": 1.5
+    },
+    "lidl": {
+      "price": 1.94
+    },
+    "kaufland": null,
+    "jednota": {
+      "price": 1.58
+    },
+    "biedronka": null
+  },
+  "prod_2": {
+    "id": "prod_2",
+    "name": "Chlieb pšeničný Classic",
+    "desc": "Automaticky vygenerované ceny pre dňa 21.07.2026.",
+    "cat": "pecivo",
+    "sub": "zakladne",
+    "unit": "€/ks",
+    "onSale": false,
+    "saleUntil": "",
+    "tesco": {
+      "price": 1.33
+    },
+    "billa": {
+      "price": 1.36
+    },
+    "lidl": {
+      "price": 1.6
+    },
+    "kaufland": {
+      "price": 1.52
+    },
+    "jednota": {
+      "price": 1.55
+    },
+    "biedronka": {
+      "price": 1.61
+    }
+  },
+  "prod_3": {
+    "id": "prod_3",
+    "name": "Rožok biely Premium",
+    "desc": "Automaticky vygenerované ceny pre dňa 21.07.2026.",
+    "cat": "pecivo",
+    "sub": "zakladne",
+    "unit": "€/ks",
+    "onSale": true,
+    "saleUntil": "25.07.",
+    "tesco": null,
+    "billa": {
+      "price": 1.28
+    },
+    "lidl": {
+      "price": 1.06
+    },
+    "kaufland": {
+      "price": 1.12
+    },
+    "jednota": {
+      "price": 1.26
+    },
+    "biedronka": {
+      "price": 1.26
+    }
+  },
+  "prod_4": {
+    "id": "prod_4",
+    "name": "Chlieb pšeničný Premium",
+    "desc": "Automaticky vygenerované ceny pre dňa 21.07.2026.",
+    "cat": "pecivo",
+    "sub": "zakladne",
+    "unit": "€/ks",
+    "onSale": true,
+    "saleUntil": "27.07.",
+    "tesco": {
+      "price": 2.13
+    },
+    "billa": {
+      "price": 1.96
+    },
+    "lidl": {
+      "price": 2.24
+    },
+    "kaufland": null,
+    "jednota": {
+      "price": 2.19
+    },
+    "biedronka": {
+      "price": 1.87
+    }
+  },
+  "prod_5": {
+    "id": "prod_5",
+    "name": "Rožok biely Bio",
+    "desc": "Automaticky vygenerované ceny pre dňa 21.07.2026.",
+    "cat": "pecivo",
+    "sub": "zakladne",
+    "unit": "€/ks",
+    "onSale": true,
+    "saleUntil": "23.07.",
+    "tesco": {
+      "price": 3.17
+    },
+    "billa": {
+      "price": 2.7
+    },
+    "lidl": {
+      "price": 2.83
+    },
+    "kaufland": {
+      "price": 2.95
+    },
+    "jednota": {
+      "price": 2.49
+    },
+    "biedronka": {
+      "price": 3.12
+    }
+  },
+  "prod_6": {
+    "id": "prod_6",
+    "name": "Rožok biely Classic",
+    "desc": "Automaticky vygenerované ceny pre dňa 21.07.2026.",
+    "cat": "pecivo",
+    "sub": "zakladne",
+    "unit": "€/ks",
+    "onSale": false,
+    "saleUntil": "",
+    "tesco": null,
+    "billa": null,
+    "lidl": {
+      "price": 3.12
+    },
+    "kaufland": {
+      "price": 3.6
+    },
+    "jednota": {
+      "price": 3.44
+    },
+    "biedronka": {
+      "price": 2.98
+    }
+  },
+  "prod_7": {
+    "id": "prod_7",
+    "name": "Kaiserka XXL",
+    "desc": "Automaticky vygenerované ceny pre dňa 21.07.2026.",
+    "cat": "pecivo",
+    "sub": "zakladne",
+    "unit": "€/ks",
+    "onSale": true,
+    "saleUntil": "24.07.",
+    "tesco": {
+      "price": 1.97
+    },
+    "billa": {
+      "price": 2.0
+    },
+    "lidl": {
+      "price": 2.23
+    },
+    "kaufland": {
+      "price": 2.14
+    },
+    "jednota": {
+      "price": 2.21
+    },
+    "biedronka": {
+      "price": 2.27
+    }
+  },
+  "prod_8": {
+    "id": "prod_8",
+    "name": "Chlieb pšeničný Classic",
+    "desc": "Automaticky vygenerované ceny pre dňa 21.07.2026.",
+    "cat": "pecivo",
+    "sub": "zakladne",
+    "unit": "€/ks",
+    "onSale": false,
+    "saleUntil": "",
+    "tesco": {
+      "price": 2.19
+    },
+    "billa": {
+      "price": 2.28
+    },
+    "lidl": {
+      "price": 2.06
+    },
+    "kaufland": {
+      "price": 2.47
+    },
+    "jednota": {
+      "price": 2.55
+    },
+    "biedronka": {
+      "price": 2.4
+    }
+  },
+  "prod_9": {
+    "id": "prod_9",
+    "name": "Chlieb pšeničný Premium",
+    "desc": "Automaticky vygenerované ceny pre dňa 21.07.2026.",
+    "cat": "pecivo",
+    "sub": "zakladne",
+    "unit": "€/ks",
+    "onSale": true,
+    "saleUntil": "23.07.",
+    "tesco": {
+      "price": 0.78
+    },
+    "billa": {
+      "price": 0.77
+    },
+    "lidl": {
+      "price": 0.79
+    },
+    "kaufland": null,
+    "jednota": null,
+    "biedronka": {
+      "price": 0.81
+    }
+  },
+  "prod_10": {
+    "id": "prod_10",
+    "name": "Rožok biely XXL",
+    "desc": "Automaticky vygenerované ceny pre dňa 21.07.2026.",
+    "cat": "pecivo",
+    "sub": "zakladne",
+    "unit": "€/ks",
+    "onSale": false,
+    "saleUntil": "",
+    "tesco": {
+      "price": 3.46
+    },
+    "billa": {
+      "price": 3.17
+    },
+    "lidl": {
+      "price": 2.86
+    },
+    "kaufland": {
+      "price": 2.97
+    },
+    "jednota": {
+      "price": 3.01
+    },
+    "biedronka": {
+      "price": 3.06
+    }
+  },
+  "prod_11": {
+    "id": "prod_11",
+    "name": "Kaiserka Classic",
+    "desc": "Automaticky vygenerované ceny pre dňa 21.07.2026.",
+    "cat": "pecivo",
+    "sub": "zakladne",
+    "unit": "€/ks",
+    "onSale": false,
+    "saleUntil": "",
+    "tesco": {
+      "price": 3.1
+    },
+    "billa": {
+      "price": 3.1
+    },
+    "lidl": {
+      "price": 2.64
+    },
+    "kaufland": {
+      "price": 2.63
+    },
+    "jednota": {
+      "price": 2.9
+    },
+    "biedronka": {
+      "price": 2.68
+    }
+  },
+  "prod_12": {
+    "id": "prod_12",
+    "name": "Rožok biely Premium",
+    "desc": "Automaticky vygenerované ceny pre dňa 21.07.2026.",
+    "cat": "pecivo",
+    "sub": "zakladne",
+    "unit": "€/ks",
+    "onSale": true,
+    "saleUntil": "24.07.",
+    "tesco": {
+      "price": 3.85
+    },
+    "billa": {
+      "price": 4.15
+    },
+    "lidl": {
+      "price": 4.39
+    },
+    "kaufland": {
+      "price": 4.03
+    },
+    "jednota": {
+      "price": 4.25
+    },
+    "biedronka": null
+  },
+  "prod_13": {
+    "id": "prod_13",
+    "name": "Rožok biely Classic",
+    "desc": "Automaticky vygenerované ceny pre dňa 21.07.2026.",
+    "cat": "pecivo",
+    "sub": "zakladne",
+    "unit": "€/ks",
+    "onSale": false,
+    "saleUntil": "",
+    "tesco": {
+      "price": 3.83
+    },
+    "billa": {
+      "price": 3.53
+    },
+    "lidl": {
+      "price": 3.5
+    },
+    "kaufland": {
+      "price": 3.85
+    },
+    "jednota": {
+      "price": 3.36
+    },
+    "biedronka": {
+      "price": 3.71
+    }
+  },
+  "prod_14": {
+    "id": "prod_14",
+    "name": "Chlieb pšeničný Classic",
+    "desc": "Automaticky vygenerované ceny pre dňa 21.07.2026.",
+    "cat": "pecivo",
+    "sub": "zakladne",
+    "unit": "€/ks",
+    "onSale": false,
+    "saleUntil": "",
+    "tesco": {
+      "price": 1.78
+    },
+    "billa": {
+      "price": 1.64
+    },
+    "lidl": {
+      "price": 1.64
+    },
+    "kaufland": {
+      "price": 1.7
+    },
+    "jednota": null,
+    "biedronka": {
+      "price": 2.12
+    }
+  },
+  "prod_15": {
+    "id": "prod_15",
+    "name": "Kaiserka XXL",
+    "desc": "Automaticky vygenerované ceny pre dňa 21.07.2026.",
+    "cat": "pecivo",
+    "sub": "zakladne",
+    "unit": "€/ks",
+    "onSale": false,
+    "saleUntil": "",
+    "tesco": {
+      "price": 3.59
+    },
+    "billa": {
+      "price": 4.38
+    },
+    "lidl": {
+      "price": 3.75
+    },
+    "kaufland": {
+      "price": 3.66
+    },
+    "jednota": {
+      "price": 4.14
+    },
+    "biedronka": {
+      "price": 4.45
+    }
+  },
+  "prod_16": {
+    "id": "prod_16",
+    "name": "Rožok biely XXL",
+    "desc": "Automaticky vygenerované ceny pre dňa 21.07.2026.",
+    "cat": "pecivo",
+    "sub": "zakladne",
+    "unit": "€/ks",
+    "onSale": false,
+    "saleUntil": "",
+    "tesco": {
+      "price": 3.6
+    },
+    "billa": {
+      "price": 3.05
+    },
+    "lidl": {
+      "price": 3.14
+    },
+    "kaufland": null,
+    "jednota": {
+      "price": 2.75
+    },
+    "biedronka": {
+      "price": 3.07
+    }
+  },
+  "prod_17": {
+    "id": "prod_17",
+    "name": "Chlieb pšeničný XXL",
+    "desc": "Automaticky vygenerované ceny pre dňa 21.07.2026.",
+    "cat": "pecivo",
+    "sub": "zakladne",
+    "unit": "€/ks",
+    "onSale": true,
+    "saleUntil": "25.07.",
+    "tesco": {
+      "price": 3.06
+    },
+    "billa": {
+      "price": 2.96
+    },
+    "lidl": {
+      "price": 2.97
+    },
+    "kaufland": null,
+    "jednota": null,
+    "biedronka": null
+  },
+  "prod_18": {
+    "id": "prod_18",
+    "name": "Kaiserka Classic",
+    "desc": "Automaticky vygenerované ceny pre dňa 21.07.2026.",
+    "cat": "pecivo",
+    "sub": "zakladne",
+    "unit": "€/ks",
+    "onSale": false,
+    "saleUntil": "",
+    "tesco": {
+      "price": 3.49
+    },
+    "billa": {
+      "price": 4.19
+    },
+    "lidl": {
+      "price": 3.6
+    },
+    "kaufland": null,
+    "jednota": {
+      "price": 3.45
+    },
+    "biedronka": {
+      "price": 4.41
+    }
+  },
+  "prod_19": {
+    "id": "prod_19",
+    "name": "Kaiserka Classic",
+    "desc": "Automaticky vygenerované ceny pre dňa 21.07.2026.",
+    "cat": "pecivo",
+    "sub": "zakladne",
+    "unit": "€/ks",
+    "onSale": false,
+    "saleUntil": "",
+    "tesco": {
+      "price": 1.93
+    },
+    "billa": null,
+    "lidl": {
+      "price": 1.95
+    },
+    "kaufland": null,
+    "jednota": {
+      "price": 1.62
+    },
+    "biedronka": {
+      "price": 1.51
+    }
+  },
+  "prod_20": {
+    "id": "prod_20",
+    "name": "Chlieb pšeničný Classic",
+    "desc": "Automaticky vygenerované ceny pre dňa 21.07.2026.",
+    "cat": "pecivo",
+    "sub": "zakladne",
+    "unit": "€/ks",
+    "onSale": false,
+    "saleUntil": "",
+    "tesco": {
+      "price": 3.77
+    },
+    "billa": {
+      "price": 3.55
+    },
+    "lidl": {
+      "price": 3.44
+    },
+    "kaufland": {
+      "price": 3.55
+    },
+    "jednota": {
+      "price": 3.45
+    },
+    "biedronka": null
+  },
+  "prod_21": {
+    "id": "prod_21",
+    "name": "Kaiserka XXL",
+    "desc": "Automaticky vygenerované ceny pre dňa 21.07.2026.",
+    "cat": "pecivo",
+    "sub": "zakladne",
+    "unit": "€/ks",
+    "onSale": false,
+    "saleUntil": "",
+    "tesco": {
+      "price": 1.22
+    },
+    "billa": {
+      "price": 1.08
+    },
+    "lidl": {
+      "price": 1.31
+    },
+    "kaufland": {
+      "price": 1.17
+    },
+    "jednota": null,
+    "biedronka": {
+      "price": 1.01
+    }
+  },
+  "prod_22": {
+    "id": "prod_22",
+    "name": "Rožok biely Bio",
+    "desc": "Automaticky vygenerované ceny pre dňa 21.07.2026.",
+    "cat": "pecivo",
+    "sub": "zakladne",
+    "unit": "€/ks",
+    "onSale": false,
+    "saleUntil": "",
+    "tesco": {
+      "price": 1.19
+    },
+    "billa": {
+      "price": 1.19
+    },
+    "lidl": {
+      "price": 1.57
+    },
+    "kaufland": null,
+    "jednota": null,
+    "biedronka": {
+      "price": 1.29
+    }
+  },
+  "prod_23": {
+    "id": "prod_23",
+    "name": "Kaiserka Premium",
+    "desc": "Automaticky vygenerované ceny pre dňa 21.07.2026.",
+    "cat": "pecivo",
+    "sub": "zakladne",
+    "unit": "€/ks",
+    "onSale": true,
+    "saleUntil": "25.07.",
+    "tesco": {
+      "price": 1.28
+    },
+    "billa": {
+      "price": 1.36
+    },
+    "lidl": {
+      "price": 1.27
+    },
+    "kaufland": {
+      "price": 1.35
+    },
+    "jednota": null,
+    "biedronka": {
+      "price": 1.3
+    }
+  },
+  "prod_24": {
+    "id": "prod_24",
+    "name": "Chlieb pšeničný Classic",
+    "desc": "Automaticky vygenerované ceny pre dňa 21.07.2026.",
+    "cat": "pecivo",
+    "sub": "zakladne",
+    "unit": "€/ks",
+    "onSale": false,
+    "saleUntil": "",
+    "tesco": {
+      "price": 3.34
+    },
+    "billa": {
+      "price": 3.98
+    },
+    "lidl": {
+      "price": 3.67
+    },
+    "kaufland": {
+      "price": 3.8
+    },
+    "jednota": {
+      "price": 3.83
+    },
+    "biedronka": {
+      "price": 3.51
+    }
+  },
+  "prod_25": {
+    "id": "prod_25",
+    "name": "Chlieb pšeničný Classic",
+    "desc": "Automaticky vygenerované ceny pre dňa 21.07.2026.",
+    "cat": "pecivo",
+    "sub": "zakladne",
+    "unit": "€/ks",
+    "onSale": false,
+    "saleUntil": "",
+    "tesco": {
+      "price": 0.82
+    },
+    "billa": null,
+    "lidl": null,
+    "kaufland": {
+      "price": 1.09
+    },
+    "jednota": {
+      "price": 0.9
+    },
+    "biedronka": {
+      "price": 1.06
+    }
+  },
+  "prod_26": {
+    "id": "prod_26",
+    "name": "Kaiserka XXL",
+    "desc": "Automaticky vygenerované ceny pre dňa 21.07.2026.",
+    "cat": "pecivo",
+    "sub": "zakladne",
+    "unit": "€/ks",
+    "onSale": true,
+    "saleUntil": "27.07.",
+    "tesco": {
+      "price": 3.23
+    },
+    "billa": {
+      "price": 2.99
+    },
+    "lidl": null,
+    "kaufland": {
+      "price": 2.7
+    },
+    "jednota": null,
+    "biedronka": {
+      "price": 2.64
+    }
+  },
+  "prod_27": {
+    "id": "prod_27",
+    "name": "Kaiserka XXL",
+    "desc": "Automaticky vygenerované ceny pre dňa 21.07.2026.",
+    "cat": "pecivo",
+    "sub": "zakladne",
+    "unit": "€/ks",
+    "onSale": false,
+    "saleUntil": "",
+    "tesco": {
+      "price": 1.97
+    },
+    "billa": {
+      "price": 2.44
+    },
+    "lidl": {
+      "price": 2.15
+    },
+    "kaufland": null,
+    "jednota": {
+      "price": 2.42
+    },
+    "biedronka": null
+  },
+  "prod_28": {
+    "id": "prod_28",
+    "name": "Rožok biely Premium",
+    "desc": "Automaticky vygenerované ceny pre dňa 21.07.2026.",
+    "cat": "pecivo",
+    "sub": "zakladne",
+    "unit": "€/ks",
+    "onSale": false,
+    "saleUntil": "",
+    "tesco": {
+      "price": 1.52
+    },
+    "billa": null,
+    "lidl": null,
+    "kaufland": null,
+    "jednota": {
+      "price": 1.15
+    },
+    "biedronka": {
+      "price": 1.45
+    }
+  },
+  "prod_29": {
+    "id": "prod_29",
+    "name": "Kaiserka Bio",
+    "desc": "Automaticky vygenerované ceny pre dňa 21.07.2026.",
+    "cat": "pecivo",
+    "sub": "zakladne",
+    "unit": "€/ks",
+    "onSale": false,
+    "saleUntil": "",
+    "tesco": null,
+    "billa": {
+      "price": 2.66
+    },
+    "lidl": {
+      "price": 2.48
+    },
+    "kaufland": {
+      "price": 2.62
+    },
+    "jednota": null,
+    "biedronka": null
+  },
+  "prod_30": {
+    "id": "prod_30",
+    "name": "Rožok biely XXL",
+    "desc": "Automaticky vygenerované ceny pre dňa 21.07.2026.",
+    "cat": "pecivo",
+    "sub": "zakladne",
+    "unit": "€/ks",
+    "onSale": false,
+    "saleUntil": "",
+    "tesco": null,
+    "billa": {
+      "price": 3.59
+    },
+    "lidl": null,
+    "kaufland": {
+      "price": 4.21
+    },
+    "jednota": {
+      "price": 3.57
+    },
+    "biedronka": {
+      "price": 3.69
+    }
+  },
+  "prod_31": {
+    "id": "prod_31",
+    "name": "Chlieb pšeničný Bio",
+    "desc": "Automaticky vygenerované ceny pre dňa 21.07.2026.",
+    "cat": "pecivo",
+    "sub": "zakladne",
+    "unit": "€/ks",
+    "onSale": false,
+    "saleUntil": "",
+    "tesco": {
+      "price": 0.92
+    },
+    "billa": {
+      "price": 0.98
+    },
+    "lidl": {
+      "price": 0.87
+    },
+    "kaufland": {
+      "price": 1.01
+    },
+    "jednota": null,
+    "biedronka": {
+      "price": 1.02
+    }
+  },
+  "prod_32": {
+    "id": "prod_32",
+    "name": "Kaiserka XXL",
+    "desc": "Automaticky vygenerované ceny pre dňa 21.07.2026.",
+    "cat": "pecivo",
+    "sub": "zakladne",
+    "unit": "€/ks",
+    "onSale": false,
+    "saleUntil": "",
+    "tesco": {
+      "price": 0.99
+    },
+    "billa": {
+      "price": 0.95
+    },
+    "lidl": {
+      "price": 0.86
+    },
+    "kaufland": null,
+    "jednota": {
+      "price": 0.85
+    },
+    "biedronka": {
+      "price": 0.95
+    }
+  },
+  "prod_33": {
+    "id": "prod_33",
+    "name": "Kaiserka Bio",
+    "desc": "Automaticky vygenerované ceny pre dňa 21.07.2026.",
+    "cat": "pecivo",
+    "sub": "zakladne",
+    "unit": "€/ks",
+    "onSale": false,
+    "saleUntil": "",
+    "tesco": {
+      "price": 3.38
+    },
+    "billa": {
+      "price": 2.7
+    },
+    "lidl": {
+      "price": 3.2
+    },
+    "kaufland": {
+      "price": 2.94
+    },
+    "jednota": {
+      "price": 2.8
+    },
+    "biedronka": {
+      "price": 3.03
+    }
+  },
+  "prod_34": {
+    "id": "prod_34",
+    "name": "Kaiserka Classic",
+    "desc": "Automaticky vygenerované ceny pre dňa 21.07.2026.",
+    "cat": "pecivo",
+    "sub": "zakladne",
+    "unit": "€/ks",
+    "onSale": false,
+    "saleUntil": "",
+    "tesco": null,
+    "billa": {
+      "price": 3.11
+    },
+    "lidl": {
+      "price": 2.82
+    },
+    "kaufland": {
+      "price": 3.09
+    },
+    "jednota": null,
+    "biedronka": {
+      "price": 3.02
+    }
+  },
+  "prod_35": {
+    "id": "prod_35",
+    "name": "Kaiserka Classic",
+    "desc": "Automaticky vygenerované ceny pre dňa 21.07.2026.",
+    "cat": "pecivo",
+    "sub": "zakladne",
+    "unit": "€/ks",
+    "onSale": false,
+    "saleUntil": "",
+    "tesco": {
+      "price": 0.96
+    },
+    "billa": null,
+    "lidl": {
+      "price": 0.91
+    },
+    "kaufland": {
+      "price": 0.81
+    },
+    "jednota": {
+      "price": 0.88
+    },
+    "biedronka": null
+  },
+  "prod_36": {
+    "id": "prod_36",
+    "name": "Chlieb pšeničný Premium",
+    "desc": "Automaticky vygenerované ceny pre dňa 21.07.2026.",
+    "cat": "pecivo",
+    "sub": "zakladne",
+    "unit": "€/ks",
+    "onSale": false,
+    "saleUntil": "",
+    "tesco": {
+      "price": 2.13
+    },
+    "billa": {
+      "price": 2.34
+    },
+    "lidl": {
+      "price": 2.38
+    },
+    "kaufland": {
+      "price": 2.49
+    },
+    "jednota": {
+      "price": 2.17
+    },
+    "biedronka": {
+      "price": 2.18
+    }
+  },
+  "prod_37": {
+    "id": "prod_37",
+    "name": "Rožok biely Classic",
+    "desc": "Automaticky vygenerované ceny pre dňa 21.07.2026.",
+    "cat": "pecivo",
+    "sub": "zakladne",
+    "unit": "€/ks",
+    "onSale": false,
+    "saleUntil": "",
+    "tesco": {
+      "price": 4.05
+    },
+    "billa": null,
+    "lidl": {
+      "price": 4.15
+    },
+    "kaufland": {
+      "price": 4.07
+    },
+    "jednota": {
+      "price": 3.76
+    },
+    "biedronka": {
+      "price": 4.4
+    }
+  },
+  "prod_38": {
+    "id": "prod_38",
+    "name": "Kaiserka Premium",
+    "desc": "Automaticky vygenerované ceny pre dňa 21.07.2026.",
+    "cat": "pecivo",
+    "sub": "zakladne",
+    "unit": "€/ks",
+    "onSale": false,
+    "saleUntil": "",
+    "tesco": {
+      "price": 1.14
+    },
+    "billa": {
+      "price": 1.05
+    },
+    "lidl": {
+      "price": 0.88
+    },
+    "kaufland": {
+      "price": 1.0
+    },
+    "jednota": {
+      "price": 1.14
+    },
+    "biedronka": {
+      "price": 1.1
+    }
+  },
+  "prod_39": {
+    "id": "prod_39",
+    "name": "Chlieb pšeničný XXL",
+    "desc": "Automaticky vygenerované ceny pre dňa 21.07.2026.",
+    "cat": "pecivo",
+    "sub": "zakladne",
+    "unit": "€/ks",
+    "onSale": false,
+    "saleUntil": "",
+    "tesco": {
+      "price": 3.51
+    },
+    "billa": {
+      "price": 3.41
+    },
+    "lidl": {
+      "price": 3.65
+    },
+    "kaufland": {
+      "price": 4.18
+    },
+    "jednota": {
+      "price": 4.07
+    },
+    "biedronka": {
+      "price": 3.51
+    }
+  },
+  "prod_40": {
+    "id": "prod_40",
+    "name": "Rožok biely XXL",
+    "desc": "Automaticky vygenerované ceny pre dňa 21.07.2026.",
+    "cat": "pecivo",
+    "sub": "zakladne",
+    "unit": "€/ks",
+    "onSale": false,
+    "saleUntil": "",
+    "tesco": {
+      "price": 1.16
+    },
+    "billa": {
+      "price": 1.13
+    },
+    "lidl": null,
+    "kaufland": {
+      "price": 0.99
+    },
+    "jednota": {
+      "price": 0.89
+    },
+    "biedronka": {
+      "price": 0.9
+    }
+  },
+  "prod_41": {
+    "id": "prod_41",
+    "name": "Rožok biely Premium",
+    "desc": "Automaticky vygenerované ceny pre dňa 21.07.2026.",
+    "cat": "pecivo",
+    "sub": "zakladne",
+    "unit": "€/ks",
+    "onSale": false,
+    "saleUntil": "",
+    "tesco": null,
+    "billa": {
+      "price": 3.46
+    },
+    "lidl": {
+      "price": 3.86
+    },
+    "kaufland": {
+      "price": 4.25
+    },
+    "jednota": {
+      "price": 3.71
+    },
+    "biedronka": null
+  },
+  "prod_42": {
+    "id": "prod_42",
+    "name": "Kaiserka Bio",
+    "desc": "Automaticky vygenerované ceny pre dňa 21.07.2026.",
+    "cat": "pecivo",
+    "sub": "zakladne",
+    "unit": "€/ks",
+    "onSale": false,
+    "saleUntil": "",
+    "tesco": {
+      "price": 2.84
+    },
+    "billa": {
+      "price": 2.69
+    },
+    "lidl": {
+      "price": 3.14
+    },
+    "kaufland": {
+      "price": 2.67
+    },
+    "jednota": {
+      "price": 2.75
+    },
+    "biedronka": null
+  },
+  "prod_43": {
+    "id": "prod_43",
+    "name": "Rožok biely Classic",
+    "desc": "Automaticky vygenerované ceny pre dňa 21.07.2026.",
+    "cat": "pecivo",
+    "sub": "zakladne",
+    "unit": "€/ks",
+    "onSale": false,
+    "saleUntil": "",
+    "tesco": {
+      "price": 4.51
+    },
+    "billa": null,
+    "lidl": {
+      "price": 3.48
+    },
+    "kaufland": {
+      "price": 4.01
+    },
+    "jednota": null,
+    "biedronka": {
+      "price": 3.65
+    }
+  },
+  "prod_44": {
+    "id": "prod_44",
+    "name": "Kaiserka XXL",
+    "desc": "Automaticky vygenerované ceny pre dňa 21.07.2026.",
+    "cat": "pecivo",
+    "sub": "zakladne",
+    "unit": "€/ks",
+    "onSale": false,
+    "saleUntil": "",
+    "tesco": {
+      "price": 1.78
+    },
+    "billa": null,
+    "lidl": {
+      "price": 1.61
+    },
+    "kaufland": {
+      "price": 1.52
+    },
+    "jednota": null,
+    "biedronka": {
+      "price": 1.48
+    }
+  },
+  "prod_45": {
+    "id": "prod_45",
+    "name": "Chlieb pšeničný Bio",
+    "desc": "Automaticky vygenerované ceny pre dňa 21.07.2026.",
+    "cat": "pecivo",
+    "sub": "zakladne",
+    "unit": "€/ks",
+    "onSale": false,
+    "saleUntil": "",
+    "tesco": {
+      "price": 1.51
+    },
+    "billa": {
+      "price": 1.83
+    },
+    "lidl": {
+      "price": 1.52
+    },
+    "kaufland": {
+      "price": 1.89
+    },
+    "jednota": {
+      "price": 1.65
+    },
+    "biedronka": {
+      "price": 1.47
+    }
+  },
+  "prod_46": {
+    "id": "prod_46",
+    "name": "Chlieb pšeničný XXL",
+    "desc": "Automaticky vygenerované ceny pre dňa 21.07.2026.",
+    "cat": "pecivo",
+    "sub": "zakladne",
+    "unit": "€/ks",
+    "onSale": false,
+    "saleUntil": "",
+    "tesco": {
+      "price": 3.15
+    },
+    "billa": {
+      "price": 3.92
+    },
+    "lidl": null,
+    "kaufland": {
+      "price": 3.85
+    },
+    "jednota": {
+      "price": 3.51
+    },
+    "biedronka": {
+      "price": 3.79
+    }
+  },
+  "prod_47": {
+    "id": "prod_47",
+    "name": "Kaiserka Bio",
+    "desc": "Automaticky vygenerované ceny pre dňa 21.07.2026.",
+    "cat": "pecivo",
+    "sub": "zakladne",
+    "unit": "€/ks",
+    "onSale": false,
+    "saleUntil": "",
+    "tesco": {
+      "price": 3.57
+    },
+    "billa": null,
+    "lidl": {
+      "price": 4.01
+    },
+    "kaufland": {
+      "price": 4.22
+    },
+    "jednota": {
+      "price": 3.2
+    },
+    "biedronka": {
+      "price": 3.89
+    }
+  },
+  "prod_48": {
+    "id": "prod_48",
+    "name": "Rožok biely Premium",
+    "desc": "Automaticky vygenerované ceny pre dňa 21.07.2026.",
+    "cat": "pecivo",
+    "sub": "zakladne",
+    "unit": "€/ks",
+    "onSale": false,
+    "saleUntil": "",
+    "tesco": null,
+    "billa": {
+      "price": 2.29
+    },
+    "lidl": {
+      "price": 2.09
+    },
+    "kaufland": {
+      "price": 2.07
+    },
+    "jednota": {
+      "price": 2.3
+    },
+    "biedronka": {
+      "price": 2.46
+    }
+  },
+  "prod_49": {
+    "id": "prod_49",
+    "name": "Rožok biely Premium",
+    "desc": "Automaticky vygenerované ceny pre dňa 21.07.2026.",
+    "cat": "pecivo",
+    "sub": "zakladne",
+    "unit": "€/ks",
+    "onSale": false,
+    "saleUntil": "",
+    "tesco": {
+      "price": 2.88
+    },
+    "billa": {
+      "price": 2.75
+    },
+    "lidl": {
+      "price": 2.84
+    },
+    "kaufland": {
+      "price": 2.35
+    },
+    "jednota": {
+      "price": 2.26
+    },
+    "biedronka": {
+      "price": 2.46
+    }
+  },
+  "prod_50": {
+    "id": "prod_50",
+    "name": "Chlieb pšeničný Premium",
+    "desc": "Automaticky vygenerované ceny pre dňa 21.07.2026.",
+    "cat": "pecivo",
+    "sub": "zakladne",
+    "unit": "€/ks",
+    "onSale": false,
+    "saleUntil": "",
+    "tesco": null,
+    "billa": {
+      "price": 2.34
+    },
+    "lidl": {
+      "price": 3.1
+    },
+    "kaufland": {
+      "price": 2.41
+    },
+    "jednota": {
+      "price": 2.76
+    },
+    "biedronka": {
+      "price": 2.86
+    }
+  },
+  "prod_51": {
+    "id": "prod_51",
+    "name": "Croissant Bio",
+    "desc": "Automaticky vygenerované ceny pre dňa 21.07.2026.",
+    "cat": "pecivo",
+    "sub": "sladke",
+    "unit": "€/ks",
+    "onSale": false,
+    "saleUntil": "",
+    "tesco": {
+      "price": 2.03
+    },
+    "billa": {
+      "price": 2.4
+    },
+    "lidl": {
+      "price": 1.8
+    },
+    "kaufland": {
+      "price": 2.21
+    },
+    "jednota": {
+      "price": 2.39
+    },
+    "biedronka": {
+      "price": 1.97
+    }
+  },
+  "prod_52": {
+    "id": "prod_52",
+    "name": "Croissant Premium",
+    "desc": "Automaticky vygenerované ceny pre dňa 21.07.2026.",
+    "cat": "pecivo",
+    "sub": "sladke",
+    "unit": "€/ks",
+    "onSale": false,
+    "saleUntil": "",
+    "tesco": {
+      "price": 2.72
+    },
+    "billa": {
+      "price": 3.48
+    },
+    "lidl": {
+      "price": 3.21
+    },
+    "kaufland": null,
+    "jednota": {
+      "price": 2.78
+    },
+    "biedronka": {
+      "price": 3.08
+    }
+  },
+  "prod_53": {
+    "id": "prod_53",
+    "name": "Vianočka XXL",
+    "desc": "Automaticky vygenerované ceny pre dňa 21.07.2026.",
+    "cat": "pecivo",
+    "sub": "sladke",
+    "unit": "€/ks",
+    "onSale": true,
+    "saleUntil": "28.07.",
+    "tesco": {
+      "price": 2.43
+    },
+    "billa": {
+      "price": 2.51
+    },
+    "lidl": {
+      "price": 2.12
+    },
+    "kaufland": {
+      "price": 2.2
+    },
+    "jednota": {
+      "price": 2.48
+    },
+    "biedronka": null
+  },
+  "prod_54": {
+    "id": "prod_54",
+    "name": "Croissant Classic",
+    "desc": "Automaticky vygenerované ceny pre dňa 21.07.2026.",
+    "cat": "pecivo",
+    "sub": "sladke",
+    "unit": "€/ks",
+    "onSale": false,
+    "saleUntil": "",
+    "tesco": {
+      "price": 4.02
+    },
+    "billa": {
+      "price": 4.36
+    },
+    "lidl": {
+      "price": 3.91
+    },
+    "kaufland": {
+      "price": 3.41
+    },
+    "jednota": null,
+    "biedronka": {
+      "price": 3.79
+    }
+  },
+  "prod_55": {
+    "id": "prod_55",
+    "name": "Croissant XXL",
+    "desc": "Automaticky vygenerované ceny pre dňa 21.07.2026.",
+    "cat": "pecivo",
+    "sub": "sladke",
+    "unit": "€/ks",
+    "onSale": false,
+    "saleUntil": "",
+    "tesco": {
+      "price": 2.51
+    },
+    "billa": {
+      "price": 2.54
+    },
+    "lidl": {
+      "price": 2.65
+    },
+    "kaufland": {
+      "price": 2.45
+    },
+    "jednota": {
+      "price": 2.26
+    },
+    "biedronka": {
+      "price": 2.46
+    }
+  },
+  "prod_56": {
+    "id": "prod_56",
+    "name": "Vianočka XXL",
+    "desc": "Automaticky vygenerované ceny pre dňa 21.07.2026.",
+    "cat": "pecivo",
+    "sub": "sladke",
+    "unit": "€/ks",
+    "onSale": true,
+    "saleUntil": "25.07.",
+    "tesco": {
+      "price": 3.43
+    },
+    "billa": {
+      "price": 3.17
+    },
+    "lidl": {
+      "price": 3.41
+    },
+    "kaufland": {
+      "price": 4.18
+    },
+    "jednota": {
+      "price": 3.35
+    },
+    "biedronka": null
+  },
+  "prod_57": {
+    "id": "prod_57",
+    "name": "Croissant Classic",
+    "desc": "Automaticky vygenerované ceny pre dňa 21.07.2026.",
+    "cat": "pecivo",
+    "sub": "sladke",
+    "unit": "€/ks",
+    "onSale": false,
+    "saleUntil": "",
+    "tesco": {
+      "price": 3.95
+    },
+    "billa": {
+      "price": 3.38
+    },
+    "lidl": {
+      "price": 3.71
+    },
+    "kaufland": {
+      "price": 4.04
+    },
+    "jednota": {
+      "price": 3.99
+    },
+    "biedronka": {
+      "price": 3.26
+    }
+  },
+  "prod_58": {
+    "id": "prod_58",
+    "name": "Croissant Premium",
+    "desc": "Automaticky vygenerované ceny pre dňa 21.07.2026.",
+    "cat": "pecivo",
+    "sub": "sladke",
+    "unit": "€/ks",
+    "onSale": false,
+    "saleUntil": "",
+    "tesco": {
+      "price": 3.41
+    },
+    "billa": {
+      "price": 3.23
+    },
+    "lidl": {
+      "price": 2.84
+    },
+    "kaufland": null,
+    "jednota": {
+      "price": 2.7
+    },
+    "biedronka": {
+      "price": 2.68
+    }
+  },
+  "prod_59": {
+    "id": "prod_59",
+    "name": "Vianočka Classic",
+    "desc": "Automaticky vygenerované ceny pre dňa 21.07.2026.",
+    "cat": "pecivo",
+    "sub": "sladke",
+    "unit": "€/ks",
+    "onSale": false,
+    "saleUntil": "",
+    "tesco": null,
+    "billa": {
+      "price": 3.5
+    },
+    "lidl": null,
+    "kaufland": {
+      "price": 3.76
+    },
+    "jednota": null,
+    "biedronka": {
+      "price": 4.0
+    }
+  },
+  "prod_60": {
+    "id": "prod_60",
+    "name": "Croissant Classic",
+    "desc": "Automaticky vygenerované ceny pre dňa 21.07.2026.",
+    "cat": "pecivo",
+    "sub": "sladke",
+    "unit": "€/ks",
+    "onSale": false,
+    "saleUntil": "",
+    "tesco": {
+      "price": 0.76
+    },
+    "billa": {
+      "price": 0.77
+    },
+    "lidl": {
+      "price": 0.72
+    },
+    "kaufland": null,
+    "jednota": null,
+    "biedronka": {
+      "price": 0.81
+    }
+  },
+  "prod_61": {
+    "id": "prod_61",
+    "name": "Croissant Bio",
+    "desc": "Automaticky vygenerované ceny pre dňa 21.07.2026.",
+    "cat": "pecivo",
+    "sub": "sladke",
+    "unit": "€/ks",
+    "onSale": false,
+    "saleUntil": "",
+    "tesco": {
+      "price": 2.09
+    },
+    "billa": null,
+    "lidl": null,
+    "kaufland": {
+      "price": 2.17
+    },
+    "jednota": {
+      "price": 2.14
+    },
+    "biedronka": {
+      "price": 2.03
+    }
+  },
+  "prod_62": {
+    "id": "prod_62",
+    "name": "Croissant XXL",
+    "desc": "Automaticky vygenerované ceny pre dňa 21.07.2026.",
+    "cat": "pecivo",
+    "sub": "sladke",
+    "unit": "€/ks",
+    "onSale": false,
+    "saleUntil": "",
+    "tesco": {
+      "price": 1.12
+    },
+    "billa": {
+      "price": 1.24
+    },
+    "lidl": {
+      "price": 1.2
+    },
+    "kaufland": {
+      "price": 1.18
+    },
+    "jednota": {
+      "price": 1.36
+    },
+    "biedronka": {
+      "price": 1.3
+    }
+  },
+  "prod_63": {
+    "id": "prod_63",
+    "name": "Vianočka Premium",
+    "desc": "Automaticky vygenerované ceny pre dňa 21.07.2026.",
+    "cat": "pecivo",
+    "sub": "sladke",
+    "unit": "€/ks",
+    "onSale": false,
+    "saleUntil": "",
+    "tesco": null,
+    "billa": {
+      "price": 1.15
+    },
+    "lidl": {
+      "price": 1.17
+    },
+    "kaufland": {
+      "price": 1.48
+    },
+    "jednota": {
+      "price": 1.44
+    },
+    "biedronka": {
+      "price": 1.42
+    }
+  },
+  "prod_64": {
+    "id": "prod_64",
+    "name": "Croissant Bio",
+    "desc": "Automaticky vygenerované ceny pre dňa 21.07.2026.",
+    "cat": "pecivo",
+    "sub": "sladke",
+    "unit": "€/ks",
+    "onSale": false,
+    "saleUntil": "",
+    "tesco": {
+      "price": 2.23
+    },
+    "billa": null,
+    "lidl": {
+      "price": 2.94
+    },
+    "kaufland": {
+      "price": 2.63
+    },
+    "jednota": {
+      "price": 2.8
+    },
+    "biedronka": {
+      "price": 2.23
+    }
+  },
+  "prod_65": {
+    "id": "prod_65",
+    "name": "Croissant Bio",
+    "desc": "Automaticky vygenerované ceny pre dňa 21.07.2026.",
+    "cat": "pecivo",
+    "sub": "sladke",
+    "unit": "€/ks",
+    "onSale": false,
+    "saleUntil": "",
+    "tesco": {
+      "price": 2.22
+    },
+    "billa": {
+      "price": 2.16
+    },
+    "lidl": null,
+    "kaufland": null,
+    "jednota": {
+      "price": 2.66
+    },
+    "biedronka": {
+      "price": 2.54
+    }
+  },
+  "prod_66": {
+    "id": "prod_66",
+    "name": "Vianočka Bio",
+    "desc": "Automaticky vygenerované ceny pre dňa 21.07.2026.",
+    "cat": "pecivo",
+    "sub": "sladke",
+    "unit": "€/ks",
+    "onSale": false,
+    "saleUntil": "",
+    "tesco": {
+      "price": 2.25
+    },
+    "billa": {
+      "price": 2.68
+    },
+    "lidl": null,
+    "kaufland": {
+      "price": 2.29
+    },
+    "jednota": {
+      "price": 2.34
+    },
+    "biedronka": {
+      "price": 2.21
+    }
+  },
+  "prod_67": {
+    "id": "prod_67",
+    "name": "Croissant Bio",
+    "desc": "Automaticky vygenerované ceny pre dňa 21.07.2026.",
+    "cat": "pecivo",
+    "sub": "sladke",
+    "unit": "€/ks",
+    "onSale": false,
+    "saleUntil": "",
+    "tesco": {
+      "price": 3.15
+    },
+    "billa": {
+      "price": 3.29
+    },
+    "lidl": null,
+    "kaufland": {
+      "price": 3.07
+    },
+    "jednota": {
+      "price": 3.15
+    },
+    "biedronka": {
+      "price": 2.94
+    }
+  },
+  "prod_68": {
+    "id": "prod_68",
+    "name": "Vianočka XXL",
+    "desc": "Automaticky vygenerované ceny pre dňa 21.07.2026.",
+    "cat": "pecivo",
+    "sub": "sladke",
+    "unit": "€/ks",
+    "onSale": false,
+    "saleUntil": "",
+    "tesco": {
+      "price": 3.05
+    },
+    "billa": {
+      "price": 2.94
+    },
+    "lidl": {
+      "price": 3.23
+    },
+    "kaufland": {
+      "price": 3.4
+    },
+    "jednota": {
+      "price": 3.71
+    },
+    "biedronka": {
+      "price": 2.91
+    }
+  },
+  "prod_69": {
+    "id": "prod_69",
+    "name": "Vianočka XXL",
+    "desc": "Automaticky vygenerované ceny pre dňa 21.07.2026.",
+    "cat": "pecivo",
+    "sub": "sladke",
+    "unit": "€/ks",
+    "onSale": false,
+    "saleUntil": "",
+    "tesco": {
+      "price": 1.7
+    },
+    "billa": {
+      "price": 1.59
+    },
+    "lidl": {
+      "price": 1.43
+    },
+    "kaufland": {
+      "price": 1.34
+    },
+    "jednota": null,
+    "biedronka": null
+  },
+  "prod_70": {
+    "id": "prod_70",
+    "name": "Croissant Bio",
+    "desc": "Automaticky vygenerované ceny pre dňa 21.07.2026.",
+    "cat": "pecivo",
+    "sub": "sladke",
+    "unit": "€/ks",
+    "onSale": false,
+    "saleUntil": "",
+    "tesco": {
+      "price": 2.88
+    },
+    "billa": {
+      "price": 3.17
+    },
+    "lidl": null,
+    "kaufland": {
+      "price": 2.97
+    },
+    "jednota": {
+      "price": 3.47
+    },
+    "biedronka": {
+      "price": 3.32
+    }
+  },
+  "prod_71": {
+    "id": "prod_71",
+    "name": "Croissant XXL",
+    "desc": "Automaticky vygenerované ceny pre dňa 21.07.2026.",
+    "cat": "pecivo",
+    "sub": "sladke",
+    "unit": "€/ks",
+    "onSale": false,
+    "saleUntil": "",
+    "tesco": {
+      "price": 2.91
+    },
+    "billa": {
+      "price": 3.35
+    },
+    "lidl": {
+      "price": 2.9
+    },
+    "kaufland": {
+      "price": 3.11
+    },
+    "jednota": {
+      "price": 2.83
+    },
+    "biedronka": null
+  },
+  "prod_72": {
+    "id": "prod_72",
+    "name": "Croissant Premium",
+    "desc": "Automaticky vygenerované ceny pre dňa 21.07.2026.",
+    "cat": "pecivo",
+    "sub": "sladke",
+    "unit": "€/ks",
+    "onSale": false,
+    "saleUntil": "",
+    "tesco": null,
+    "billa": {
+      "price": 3.2
+    },
+    "lidl": {
+      "price": 3.15
+    },
+    "kaufland": {
+      "price": 3.9
+    },
+    "jednota": {
+      "price": 3.21
+    },
+    "biedronka": {
+      "price": 3.15
+    }
+  },
+  "prod_73": {
+    "id": "prod_73",
+    "name": "Croissant Premium",
+    "desc": "Automaticky vygenerované ceny pre dňa 21.07.2026.",
+    "cat": "pecivo",
+    "sub": "sladke",
+    "unit": "€/ks",
+    "onSale": false,
+    "saleUntil": "",
+    "tesco": {
+      "price": 1.05
+    },
+    "billa": {
+      "price": 1.05
+    },
+    "lidl": {
+      "price": 1.18
+    },
+    "kaufland": {
+      "price": 1.01
+    },
+    "jednota": {
+      "price": 1.01
+    },
+    "biedronka": {
+      "price": 1.2
+    }
+  },
+  "prod_74": {
+    "id": "prod_74",
+    "name": "Vianočka XXL",
+    "desc": "Automaticky vygenerované ceny pre dňa 21.07.2026.",
+    "cat": "pecivo",
+    "sub": "sladke",
+    "unit": "€/ks",
+    "onSale": false,
+    "saleUntil": "",
+    "tesco": {
+      "price": 3.46
+    },
+    "billa": {
+      "price": 3.95
+    },
+    "lidl": {
+      "price": 4.08
+    },
+    "kaufland": {
+      "price": 4.26
+    },
+    "jednota": {
+      "price": 3.59
+    },
+    "biedronka": {
+      "price": 4.2
+    }
+  },
+  "prod_75": {
+    "id": "prod_75",
+    "name": "Croissant XXL",
+    "desc": "Automaticky vygenerované ceny pre dňa 21.07.2026.",
+    "cat": "pecivo",
+    "sub": "sladke",
+    "unit": "€/ks",
+    "onSale": false,
+    "saleUntil": "",
+    "tesco": null,
+    "billa": {
+      "price": 4.39
+    },
+    "lidl": null,
+    "kaufland": {
+      "price": 3.92
+    },
+    "jednota": null,
+    "biedronka": {
+      "price": 3.38
+    }
+  },
+  "prod_76": {
+    "id": "prod_76",
+    "name": "Croissant XXL",
+    "desc": "Automaticky vygenerované ceny pre dňa 21.07.2026.",
+    "cat": "pecivo",
+    "sub": "sladke",
+    "unit": "€/ks",
+    "onSale": false,
+    "saleUntil": "",
+    "tesco": {
+      "price": 3.74
+    },
+    "billa": null,
+    "lidl": null,
+    "kaufland": {
+      "price": 3.55
+    },
+    "jednota": {
+      "price": 3.64
+    },
+    "biedronka": {
+      "price": 3.64
+    }
+  },
+  "prod_77": {
+    "id": "prod_77",
+    "name": "Vianočka Classic",
+    "desc": "Automaticky vygenerované ceny pre dňa 21.07.2026.",
+    "cat": "pecivo",
+    "sub": "sladke",
+    "unit": "€/ks",
+    "onSale": false,
+    "saleUntil": "",
+    "tesco": {
+      "price": 2.14
+    },
+    "billa": {
+      "price": 2.16
+    },
+    "lidl": {
+      "price": 2.47
+    },
+    "kaufland": {
+      "price": 1.87
+    },
+    "jednota": {
+      "price": 1.92
+    },
+    "biedronka": {
+      "price": 1.97
+    }
+  },
+  "prod_78": {
+    "id": "prod_78",
+    "name": "Vianočka Classic",
+    "desc": "Automaticky vygenerované ceny pre dňa 21.07.2026.",
+    "cat": "pecivo",
+    "sub": "sladke",
+    "unit": "€/ks",
+    "onSale": false,
+    "saleUntil": "",
+    "tesco": {
+      "price": 2.81
+    },
+    "billa": {
+      "price": 2.99
+    },
+    "lidl": {
+      "price": 3.05
+    },
+    "kaufland": null,
+    "jednota": null,
+    "biedronka": {
+      "price": 2.73
+    }
+  },
+  "prod_79": {
+    "id": "prod_79",
+    "name": "Croissant Classic",
+    "desc": "Automaticky vygenerované ceny pre dňa 21.07.2026.",
+    "cat": "pecivo",
+    "sub": "sladke",
+    "unit": "€/ks",
+    "onSale": true,
+    "saleUntil": "24.07.",
+    "tesco": {
+      "price": 1.82
+    },
+    "billa": {
+      "price": 1.72
+    },
+    "lidl": {
+      "price": 2.05
+    },
+    "kaufland": null,
+    "jednota": {
+      "price": 1.86
+    },
+    "biedronka": {
+      "price": 1.8
+    }
+  },
+  "prod_80": {
+    "id": "prod_80",
+    "name": "Vianočka XXL",
+    "desc": "Automaticky vygenerované ceny pre dňa 21.07.2026.",
+    "cat": "pecivo",
+    "sub": "sladke",
+    "unit": "€/ks",
+    "onSale": false,
+    "saleUntil": "",
+    "tesco": {
+      "price": 2.01
+    },
+    "billa": {
+      "price": 2.09
+    },
+    "lidl": null,
+    "kaufland": {
+      "price": 1.74
+    },
+    "jednota": {
+      "price": 2.03
+    },
+    "biedronka": {
+      "price": 1.97
+    }
+  },
+  "prod_81": {
+    "id": "prod_81",
+    "name": "Croissant Classic",
+    "desc": "Automaticky vygenerované ceny pre dňa 21.07.2026.",
+    "cat": "pecivo",
+    "sub": "sladke",
+    "unit": "€/ks",
+    "onSale": false,
+    "saleUntil": "",
+    "tesco": null,
+    "billa": {
+      "price": 0.84
+    },
+    "lidl": {
+      "price": 0.97
+    },
+    "kaufland": {
+      "price": 0.79
+    },
+    "jednota": {
+      "price": 0.89
+    },
+    "biedronka": {
+      "price": 0.9
+    }
+  },
+  "prod_82": {
+    "id": "prod_82",
+    "name": "Croissant XXL",
+    "desc": "Automaticky vygenerované ceny pre dňa 21.07.2026.",
+    "cat": "pecivo",
+    "sub": "sladke",
+    "unit": "€/ks",
+    "onSale": false,
+    "saleUntil": "",
+    "tesco": {
+      "price": 2.23
+    },
+    "billa": {
+      "price": 2.55
+    },
+    "lidl": {
+      "price": 2.13
+    },
+    "kaufland": {
+      "price": 2.59
+    },
+    "jednota": {
+      "price": 2.66
+    },
+    "biedronka": {
+      "price": 2.43
+    }
+  },
+  "prod_83": {
+    "id": "prod_83",
+    "name": "Vianočka XXL",
+    "desc": "Automaticky vygenerované ceny pre dňa 21.07.2026.",
+    "cat": "pecivo",
+    "sub": "sladke",
+    "unit": "€/ks",
+    "onSale": false,
+    "saleUntil": "",
+    "tesco": {
+      "price": 2.77
+    },
+    "billa": {
+      "price": 2.3
+    },
+    "lidl": {
+      "price": 2.43
+    },
+    "kaufland": {
+      "price": 2.7
+    },
+    "jednota": {
+      "price": 2.55
+    },
+    "biedronka": {
+      "price": 2.54
+    }
+  },
+  "prod_84": {
+    "id": "prod_84",
+    "name": "Croissant Bio",
+    "desc": "Automaticky vygenerované ceny pre dňa 21.07.2026.",
+    "cat": "pecivo",
+    "sub": "sladke",
+    "unit": "€/ks",
+    "onSale": false,
+    "saleUntil": "",
+    "tesco": {
+      "price": 4.46
+    },
+    "billa": {
+      "price": 3.46
+    },
+    "lidl": {
+      "price": 3.48
+    },
+    "kaufland": null,
+    "jednota": {
+      "price": 4.54
+    },
+    "biedronka": {
+      "price": 3.53
+    }
+  },
+  "prod_85": {
+    "id": "prod_85",
+    "name": "Croissant XXL",
+    "desc": "Automaticky vygenerované ceny pre dňa 21.07.2026.",
+    "cat": "pecivo",
+    "sub": "sladke",
+    "unit": "€/ks",
+    "onSale": false,
+    "saleUntil": "",
+    "tesco": null,
+    "billa": {
+      "price": 2.25
+    },
+    "lidl": {
+      "price": 2.25
+    },
+    "kaufland": {
+      "price": 2.19
+    },
+    "jednota": {
+      "price": 2.74
+    },
+    "biedronka": {
+      "price": 2.1
+    }
+  },
+  "prod_86": {
+    "id": "prod_86",
+    "name": "Vianočka Bio",
+    "desc": "Automaticky vygenerované ceny pre dňa 21.07.2026.",
+    "cat": "pecivo",
+    "sub": "sladke",
+    "unit": "€/ks",
+    "onSale": false,
+    "saleUntil": "",
+    "tesco": {
+      "price": 3.51
+    },
+    "billa": {
+      "price": 3.39
+    },
+    "lidl": {
+      "price": 3.36
+    },
+    "kaufland": {
+      "price": 3.65
+    },
+    "jednota": {
+      "price": 4.38
+    },
+    "biedronka": {
+      "price": 3.78
+    }
+  },
+  "prod_87": {
+    "id": "prod_87",
+    "name": "Vianočka Premium",
+    "desc": "Automaticky vygenerované ceny pre dňa 21.07.2026.",
+    "cat": "pecivo",
+    "sub": "sladke",
+    "unit": "€/ks",
+    "onSale": false,
+    "saleUntil": "",
+    "tesco": {
+      "price": 3.39
+    },
+    "billa": {
+      "price": 3.96
+    },
+    "lidl": {
+      "price": 3.98
+    },
+    "kaufland": null,
+    "jednota": null,
+    "biedronka": {
+      "price": 3.32
+    }
+  },
+  "prod_88": {
+    "id": "prod_88",
+    "name": "Croissant XXL",
+    "desc": "Automaticky vygenerované ceny pre dňa 21.07.2026.",
+    "cat": "pecivo",
+    "sub": "sladke",
+    "unit": "€/ks",
+    "onSale": false,
+    "saleUntil": "",
+    "tesco": {
+      "price": 2.24
+    },
+    "billa": {
+      "price": 1.87
+    },
+    "lidl": null,
+    "kaufland": {
+      "price": 2.06
+    },
+    "jednota": null,
+    "biedronka": null
+  },
+  "prod_89": {
+    "id": "prod_89",
+    "name": "Vianočka Premium",
+    "desc": "Automaticky vygenerované ceny pre dňa 21.07.2026.",
+    "cat": "pecivo",
+    "sub": "sladke",
+    "unit": "€/ks",
+    "onSale": false,
+    "saleUntil": "",
+    "tesco": {
+      "price": 2.49
+    },
+    "billa": {
+      "price": 2.47
+    },
+    "lidl": {
+      "price": 2.31
+    },
+    "kaufland": {
+      "price": 2.42
+    },
+    "jednota": {
+      "price": 2.35
+    },
+    "biedronka": {
+      "price": 2.54
+    }
+  },
+  "prod_90": {
+    "id": "prod_90",
+    "name": "Vianočka Bio",
+    "desc": "Automaticky vygenerované ceny pre dňa 21.07.2026.",
+    "cat": "pecivo",
+    "sub": "sladke",
+    "unit": "€/ks",
+    "onSale": false,
+    "saleUntil": "",
+    "tesco": null,
+    "billa": {
+      "price": 2.33
+    },
+    "lidl": {
+      "price": 2.05
+    },
+    "kaufland": {
+      "price": 2.33
+    },
+    "jednota": {
+      "price": 2.36
+    },
+    "biedronka": {
+      "price": 2.14
+    }
+  },
+  "prod_91": {
+    "id": "prod_91",
+    "name": "Croissant Premium",
+    "desc": "Automaticky vygenerované ceny pre dňa 21.07.2026.",
+    "cat": "pecivo",
+    "sub": "sladke",
+    "unit": "€/ks",
+    "onSale": false,
+    "saleUntil": "",
+    "tesco": {
+      "price": 4.06
+    },
+    "billa": {
+      "price": 3.55
+    },
+    "lidl": {
+      "price": 3.22
+    },
+    "kaufland": null,
+    "jednota": {
+      "price": 4.05
+    },
+    "biedronka": {
+      "price": 3.69
+    }
+  },
+  "prod_92": {
+    "id": "prod_92",
+    "name": "Vianočka Premium",
+    "desc": "Automaticky vygenerované ceny pre dňa 21.07.2026.",
+    "cat": "pecivo",
+    "sub": "sladke",
+    "unit": "€/ks",
+    "onSale": true,
+    "saleUntil": "25.07.",
+    "tesco": {
+      "price": 2.68
+    },
+    "billa": {
+      "price": 2.47
+    },
+    "lidl": null,
+    "kaufland": {
+      "price": 2.49
+    },
+    "jednota": {
+      "price": 2.55
+    },
+    "biedronka": {
+      "price": 2.48
+    }
+  },
+  "prod_93": {
+    "id": "prod_93",
+    "name": "Vianočka Bio",
+    "desc": "Automaticky vygenerované ceny pre dňa 21.07.2026.",
+    "cat": "pecivo",
+    "sub": "sladke",
+    "unit": "€/ks",
+    "onSale": false,
+    "saleUntil": "",
+    "tesco": {
+      "price": 3.23
+    },
+    "billa": null,
+    "lidl": {
+      "price": 2.74
+    },
+    "kaufland": {
+      "price": 2.85
+    },
+    "jednota": null,
+    "biedronka": {
+      "price": 3.37
+    }
+  },
+  "prod_94": {
+    "id": "prod_94",
+    "name": "Vianočka Premium",
+    "desc": "Automaticky vygenerované ceny pre dňa 21.07.2026.",
+    "cat": "pecivo",
+    "sub": "sladke",
+    "unit": "€/ks",
+    "onSale": false,
+    "saleUntil": "",
+    "tesco": {
+      "price": 1.52
+    },
+    "billa": null,
+    "lidl": {
+      "price": 1.36
+    },
+    "kaufland": {
+      "price": 1.72
+    },
+    "jednota": {
+      "price": 1.67
+    },
+    "biedronka": {
+      "price": 1.71
+    }
+  },
+  "prod_95": {
+    "id": "prod_95",
+    "name": "Croissant Premium",
+    "desc": "Automaticky vygenerované ceny pre dňa 21.07.2026.",
+    "cat": "pecivo",
+    "sub": "sladke",
+    "unit": "€/ks",
+    "onSale": false,
+    "saleUntil": "",
+    "tesco": {
+      "price": 1.29
+    },
+    "billa": {
+      "price": 1.44
+    },
+    "lidl": null,
+    "kaufland": {
+      "price": 1.36
+    },
+    "jednota": {
+      "price": 1.44
+    },
+    "biedronka": {
+      "price": 1.43
+    }
+  },
+  "prod_96": {
+    "id": "prod_96",
+    "name": "Vianočka Classic",
+    "desc": "Automaticky vygenerované ceny pre dňa 21.07.2026.",
+    "cat": "pecivo",
+    "sub": "sladke",
+    "unit": "€/ks",
+    "onSale": false,
+    "saleUntil": "",
+    "tesco": {
+      "price": 2.34
+    },
+    "billa": {
+      "price": 1.9
+    },
+    "lidl": null,
+    "kaufland": null,
+    "jednota": {
+      "price": 2.19
+    },
+    "biedronka": {
+      "price": 1.96
+    }
+  },
+  "prod_97": {
+    "id": "prod_97",
+    "name": "Croissant Bio",
+    "desc": "Automaticky vygenerované ceny pre dňa 21.07.2026.",
+    "cat": "pecivo",
+    "sub": "sladke",
+    "unit": "€/ks",
+    "onSale": false,
+    "saleUntil": "",
+    "tesco": {
+      "price": 1.66
+    },
+    "billa": {
+      "price": 1.91
+    },
+    "lidl": {
+      "price": 1.76
+    },
+    "kaufland": {
+      "price": 1.81
+    },
+    "jednota": {
+      "price": 1.61
+    },
+    "biedronka": {
+      "price": 1.69
+    }
+  },
+  "prod_98": {
+    "id": "prod_98",
+    "name": "Croissant Classic",
+    "desc": "Automaticky vygenerované ceny pre dňa 21.07.2026.",
+    "cat": "pecivo",
+    "sub": "sladke",
+    "unit": "€/ks",
+    "onSale": false,
+    "saleUntil": "",
+    "tesco": {
+      "price": 1.76
+    },
+    "billa": {
+      "price": 1.43
+    },
+    "lidl": null,
+    "kaufland": null,
+    "jednota": {
+      "price": 1.47
+    },
+    "biedronka": {
+      "price": 1.76
+    }
+  },
+  "prod_99": {
+    "id": "prod_99",
+    "name": "Croissant Classic",
+    "desc": "Automaticky vygenerované ceny pre dňa 21.07.2026.",
+    "cat": "pecivo",
+    "sub": "sladke",
+    "unit": "€/ks",
+    "onSale": true,
+    "saleUntil": "24.07.",
+    "tesco": {
+      "price": 2.94
+    },
+    "billa": {
+      "price": 3.18
+    },
+    "lidl": {
+      "price": 3.34
+    },
+    "kaufland": {
+      "price": 3.39
+    },
+    "jednota": {
+      "price": 3.09
+    },
+    "biedronka": {
+      "price": 3.44
+    }
+  },
+  "prod_100": {
+    "id": "prod_100",
+    "name": "Croissant Premium",
+    "desc": "Automaticky vygenerované ceny pre dňa 21.07.2026.",
+    "cat": "pecivo",
+    "sub": "sladke",
+    "unit": "€/ks",
+    "onSale": false,
+    "saleUntil": "",
+    "tesco": {
+      "price": 3.46
+    },
+    "billa": {
+      "price": 4.04
+    },
+    "lidl": {
+      "price": 3.77
+    },
+    "kaufland": null,
+    "jednota": {
+      "price": 3.85
+    },
+    "biedronka": {
+      "price": 3.99
+    }
+  },
+  "prod_101": {
+    "id": "prod_101",
+    "name": "Mlieko polotučné Premium",
+    "desc": "Automaticky vygenerované ceny pre dňa 21.07.2026.",
+    "cat": "mliecne",
+    "sub": "mlieko",
+    "unit": "€/ks",
+    "onSale": true,
+    "saleUntil": "25.07.",
+    "tesco": {
+      "price": 2.11
+    },
+    "billa": null,
+    "lidl": {
+      "price": 2.22
+    },
+    "kaufland": {
+      "price": 2.23
+    },
+    "jednota": {
+      "price": 1.71
+    },
+    "biedronka": {
+      "price": 1.85
+    }
+  },
+  "prod_102": {
+    "id": "prod_102",
+    "name": "Mlieko polotučné Classic",
+    "desc": "Automaticky vygenerované ceny pre dňa 21.07.2026.",
+    "cat": "mliecne",
+    "sub": "mlieko",
+    "unit": "€/ks",
+    "onSale": true,
+    "saleUntil": "22.07.",
+    "tesco": {
+      "price": 2.32
+    },
+    "billa": {
+      "price": 2.09
+    },
+    "lidl": {
+      "price": 2.51
+    },
+    "kaufland": {
+      "price": 2.15
+    },
+    "jednota": null,
+    "biedronka": {
+      "price": 2.1
+    }
+  },
+  "prod_103": {
+    "id": "prod_103",
+    "name": "Mlieko plnotučné Bio",
+    "desc": "Automaticky vygenerované ceny pre dňa 21.07.2026.",
+    "cat": "mliecne",
+    "sub": "mlieko",
+    "unit": "€/ks",
+    "onSale": false,
+    "saleUntil": "",
+    "tesco": {
+      "price": 2.36
+    },
+    "billa": {
+      "price": 2.49
+    },
+    "lidl": {
+      "price": 2.74
+    },
+    "kaufland": {
+      "price": 2.87
+    },
+    "jednota": {
+      "price": 2.29
+    },
+    "biedronka": {
+      "price": 2.25
+    }
+  },
+  "prod_104": {
+    "id": "prod_104",
+    "name": "Mlieko polotučné XXL",
+    "desc": "Automaticky vygenerované ceny pre dňa 21.07.2026.",
+    "cat": "mliecne",
+    "sub": "mlieko",
+    "unit": "€/ks",
+    "onSale": false,
+    "saleUntil": "",
+    "tesco": {
+      "price": 1.34
+    },
+    "billa": {
+      "price": 1.45
+    },
+    "lidl": {
+      "price": 1.55
+    },
+    "kaufland": {
+      "price": 1.55
+    },
+    "jednota": {
+      "price": 1.62
+    },
+    "biedronka": {
+      "price": 1.45
+    }
+  },
+  "prod_105": {
+    "id": "prod_105",
+    "name": "Mlieko plnotučné Premium",
+    "desc": "Automaticky vygenerované ceny pre dňa 21.07.2026.",
+    "cat": "mliecne",
+    "sub": "mlieko",
+    "unit": "€/ks",
+    "onSale": false,
+    "saleUntil": "",
+    "tesco": {
+      "price": 0.79
+    },
+    "billa": {
+      "price": 0.8
+    },
+    "lidl": {
+      "price": 0.79
+    },
+    "kaufland": {
+      "price": 0.85
+    },
+    "jednota": null,
+    "biedronka": {
+      "price": 0.82
+    }
+  },
+  "prod_106": {
+    "id": "prod_106",
+    "name": "Mlieko polotučné Classic",
+    "desc": "Automaticky vygenerované ceny pre dňa 21.07.2026.",
+    "cat": "mliecne",
+    "sub": "mlieko",
+    "unit": "€/ks",
+    "onSale": true,
+    "saleUntil": "27.07.",
+    "tesco": {
+      "price": 2.08
+    },
+    "billa": {
+      "price": 1.97
+    },
+    "lidl": {
+      "price": 1.99
+    },
+    "kaufland": {
+      "price": 1.93
+    },
+    "jednota": {
+      "price": 1.83
+    },
+    "biedronka": {
+      "price": 2.05
+    }
+  },
+  "prod_107": {
+    "id": "prod_107",
+    "name": "Mlieko plnotučné XXL",
+    "desc": "Automaticky vygenerované ceny pre dňa 21.07.2026.",
+    "cat": "mliecne",
+    "sub": "mlieko",
+    "unit": "€/ks",
+    "onSale": false,
+    "saleUntil": "",
+    "tesco": {
+      "price": 3.64
+    },
+    "billa": {
+      "price": 3.3
+    },
+    "lidl": null,
+    "kaufland": {
+      "price": 3.97
+    },
+    "jednota": {
+      "price": 3.5
+    },
+    "biedronka": {
+      "price": 3.41
+    }
+  },
+  "prod_108": {
+    "id": "prod_108",
+    "name": "Mlieko polotučné Premium",
+    "desc": "Automaticky vygenerované ceny pre dňa 21.07.2026.",
+    "cat": "mliecne",
+    "sub": "mlieko",
+    "unit": "€/ks",
+    "onSale": false,
+    "saleUntil": "",
+    "tesco": {
+      "price": 1.37
+    },
+    "billa": {
+      "price": 1.29
+    },
+    "lidl": {
+      "price": 1.06
+    },
+    "kaufland": {
+      "price": 1.14
+    },
+    "jednota": {
+      "price": 1.16
+    },
+    "biedronka": {
+      "price": 1.32
+    }
+  },
+  "prod_109": {
+    "id": "prod_109",
+    "name": "Mlieko polotučné Premium",
+    "desc": "Automaticky vygenerované ceny pre dňa 21.07.2026.",
+    "cat": "mliecne",
+    "sub": "mlieko",
+    "unit": "€/ks",
+    "onSale": false,
+    "saleUntil": "",
+    "tesco": {
+      "price": 2.1
+    },
+    "billa": {
+      "price": 2.41
+    },
+    "lidl": {
+      "price": 2.4
+    },
+    "kaufland": {
+      "price": 2.12
+    },
+    "jednota": {
+      "price": 2.04
+    },
+    "biedronka": {
+      "price": 2.46
+    }
+  },
+  "prod_110": {
+    "id": "prod_110",
+    "name": "Mlieko plnotučné Premium",
+    "desc": "Automaticky vygenerované ceny pre dňa 21.07.2026.",
+    "cat": "mliecne",
+    "sub": "mlieko",
+    "unit": "€/ks",
+    "onSale": false,
+    "saleUntil": "",
+    "tesco": {
+      "price": 2.66
+    },
+    "billa": null,
+    "lidl": {
+      "price": 2.38
+    },
+    "kaufland": null,
+    "jednota": {
+      "price": 3.1
+    },
+    "biedronka": {
+      "price": 2.57
+    }
+  },
+  "prod_111": {
+    "id": "prod_111",
+    "name": "Mlieko polotučné Classic",
+    "desc": "Automaticky vygenerované ceny pre dňa 21.07.2026.",
+    "cat": "mliecne",
+    "sub": "mlieko",
+    "unit": "€/ks",
+    "onSale": false,
+    "saleUntil": "",
+    "tesco": {
+      "price": 2.88
+    },
+    "billa": {
+      "price": 3.24
+    },
+    "lidl": {
+      "price": 3.55
+    },
+    "kaufland": {
+      "price": 3.16
+    },
+    "jednota": {
+      "price": 3.04
+    },
+    "biedronka": {
+      "price": 3.7
+    }
+  },
+  "prod_112": {
+    "id": "prod_112",
+    "name": "Mlieko plnotučné Bio",
+    "desc": "Automaticky vygenerované ceny pre dňa 21.07.2026.",
+    "cat": "mliecne",
+    "sub": "mlieko",
+    "unit": "€/ks",
+    "onSale": false,
+    "saleUntil": "",
+    "tesco": {
+      "price": 2.54
+    },
+    "billa": {
+      "price": 2.46
+    },
+    "lidl": {
+      "price": 2.6
+    },
+    "kaufland": {
+      "price": 3.08
+    },
+    "jednota": {
+      "price": 2.72
+    },
+    "biedronka": {
+      "price": 2.99
+    }
+  },
+  "prod_113": {
+    "id": "prod_113",
+    "name": "Mlieko polotučné Classic",
+    "desc": "Automaticky vygenerované ceny pre dňa 21.07.2026.",
+    "cat": "mliecne",
+    "sub": "mlieko",
+    "unit": "€/ks",
+    "onSale": false,
+    "saleUntil": "",
+    "tesco": null,
+    "billa": {
+      "price": 1.83
+    },
+    "lidl": null,
+    "kaufland": {
+      "price": 1.82
+    },
+    "jednota": {
+      "price": 1.98
+    },
+    "biedronka": {
+      "price": 1.9
+    }
+  },
+  "prod_114": {
+    "id": "prod_114",
+    "name": "Mlieko polotučné Bio",
+    "desc": "Automaticky vygenerované ceny pre dňa 21.07.2026.",
+    "cat": "mliecne",
+    "sub": "mlieko",
+    "unit": "€/ks",
+    "onSale": false,
+    "saleUntil": "",
+    "tesco": {
+      "price": 1.16
+    },
+    "billa": {
+      "price": 1.39
+    },
+    "lidl": {
+      "price": 1.21
+    },
+    "kaufland": {
+      "price": 1.38
+    },
+    "jednota": {
+      "price": 1.38
+    },
+    "biedronka": {
+      "price": 1.4
+    }
+  },
+  "prod_115": {
+    "id": "prod_115",
+    "name": "Mlieko plnotučné XXL",
+    "desc": "Automaticky vygenerované ceny pre dňa 21.07.2026.",
+    "cat": "mliecne",
+    "sub": "mlieko",
+    "unit": "€/ks",
+    "onSale": false,
+    "saleUntil": "",
+    "tesco": {
+      "price": 1.35
+    },
+    "billa": {
+      "price": 1.38
+    },
+    "lidl": {
+      "price": 1.62
+    },
+    "kaufland": {
+      "price": 1.54
+    },
+    "jednota": {
+      "price": 1.41
+    },
+    "biedronka": {
+      "price": 1.68
+    }
+  },
+  "prod_116": {
+    "id": "prod_116",
+    "name": "Mlieko polotučné Classic",
+    "desc": "Automaticky vygenerované ceny pre dňa 21.07.2026.",
+    "cat": "mliecne",
+    "sub": "mlieko",
+    "unit": "€/ks",
+    "onSale": false,
+    "saleUntil": "",
+    "tesco": {
+      "price": 3.51
+    },
+    "billa": {
+      "price": 2.77
+    },
+    "lidl": {
+      "price": 3.09
+    },
+    "kaufland": {
+      "price": 2.85
+    },
+    "jednota": {
+      "price": 3.14
+    },
+    "biedronka": {
+      "price": 3.51
+    }
+  },
+  "prod_117": {
+    "id": "prod_117",
+    "name": "Mlieko plnotučné XXL",
+    "desc": "Automaticky vygenerované ceny pre dňa 21.07.2026.",
+    "cat": "mliecne",
+    "sub": "mlieko",
+    "unit": "€/ks",
+    "onSale": false,
+    "saleUntil": "",
+    "tesco": {
+      "price": 3.74
+    },
+    "billa": null,
+    "lidl": {
+      "price": 3.34
+    },
+    "kaufland": {
+      "price": 3.63
+    },
+    "jednota": {
+      "price": 3.9
+    },
+    "biedronka": {
+      "price": 3.16
+    }
+  },
+  "prod_118": {
+    "id": "prod_118",
+    "name": "Mlieko polotučné Premium",
+    "desc": "Automaticky vygenerované ceny pre dňa 21.07.2026.",
+    "cat": "mliecne",
+    "sub": "mlieko",
+    "unit": "€/ks",
+    "onSale": true,
+    "saleUntil": "23.07.",
+    "tesco": {
+      "price": 1.43
+    },
+    "billa": null,
+    "lidl": null,
+    "kaufland": {
+      "price": 1.58
+    },
+    "jednota": {
+      "price": 1.83
+    },
+    "biedronka": {
+      "price": 1.85
+    }
+  },
+  "prod_119": {
+    "id": "prod_119",
+    "name": "Mlieko polotučné Classic",
+    "desc": "Automaticky vygenerované ceny pre dňa 21.07.2026.",
+    "cat": "mliecne",
+    "sub": "mlieko",
+    "unit": "€/ks",
+    "onSale": false,
+    "saleUntil": "",
+    "tesco": {
+      "price": 2.16
+    },
+    "billa": {
+      "price": 2.29
+    },
+    "lidl": {
+      "price": 2.57
+    },
+    "kaufland": {
+      "price": 2.45
+    },
+    "jednota": {
+      "price": 2.64
+    },
+    "biedronka": {
+      "price": 2.43
+    }
+  },
+  "prod_120": {
+    "id": "prod_120",
+    "name": "Mlieko polotučné Premium",
+    "desc": "Automaticky vygenerované ceny pre dňa 21.07.2026.",
+    "cat": "mliecne",
+    "sub": "mlieko",
+    "unit": "€/ks",
+    "onSale": false,
+    "saleUntil": "",
+    "tesco": {
+      "price": 2.61
+    },
+    "billa": {
+      "price": 2.59
+    },
+    "lidl": null,
+    "kaufland": {
+      "price": 2.6
+    },
+    "jednota": null,
+    "biedronka": {
+      "price": 2.62
+    }
+  },
+  "prod_121": {
+    "id": "prod_121",
+    "name": "Mlieko polotučné Classic",
+    "desc": "Automaticky vygenerované ceny pre dňa 21.07.2026.",
+    "cat": "mliecne",
+    "sub": "mlieko",
+    "unit": "€/ks",
+    "onSale": false,
+    "saleUntil": "",
+    "tesco": {
+      "price": 2.62
+    },
+    "billa": {
+      "price": 2.08
+    },
+    "lidl": {
+      "price": 2.16
+    },
+    "kaufland": {
+      "price": 2.06
+    },
+    "jednota": {
+      "price": 2.5
+    },
+    "biedronka": {
+      "price": 2.36
+    }
+  },
+  "prod_122": {
+    "id": "prod_122",
+    "name": "Mlieko plnotučné Premium",
+    "desc": "Automaticky vygenerované ceny pre dňa 21.07.2026.",
+    "cat": "mliecne",
+    "sub": "mlieko",
+    "unit": "€/ks",
+    "onSale": false,
+    "saleUntil": "",
+    "tesco": {
+      "price": 2.77
+    },
+    "billa": {
+      "price": 2.53
+    },
+    "lidl": {
+      "price": 2.64
+    },
+    "kaufland": null,
+    "jednota": {
+      "price": 2.34
+    },
+    "biedronka": {
+      "price": 2.73
+    }
+  },
+  "prod_123": {
+    "id": "prod_123",
+    "name": "Mlieko plnotučné Bio",
+    "desc": "Automaticky vygenerované ceny pre dňa 21.07.2026.",
+    "cat": "mliecne",
+    "sub": "mlieko",
+    "unit": "€/ks",
+    "onSale": false,
+    "saleUntil": "",
+    "tesco": {
+      "price": 2.11
+    },
+    "billa": {
+      "price": 2.59
+    },
+    "lidl": {
+      "price": 2.52
+    },
+    "kaufland": null,
+    "jednota": {
+      "price": 2.74
+    },
+    "biedronka": {
+      "price": 2.56
+    }
+  },
+  "prod_124": {
+    "id": "prod_124",
+    "name": "Mlieko plnotučné Classic",
+    "desc": "Automaticky vygenerované ceny pre dňa 21.07.2026.",
+    "cat": "mliecne",
+    "sub": "mlieko",
+    "unit": "€/ks",
+    "onSale": false,
+    "saleUntil": "",
+    "tesco": {
+      "price": 4.1
+    },
+    "billa": {
+      "price": 3.75
+    },
+    "lidl": {
+      "price": 4.02
+    },
+    "kaufland": null,
+    "jednota": null,
+    "biedronka": {
+      "price": 3.39
+    }
+  },
+  "prod_125": {
+    "id": "prod_125",
+    "name": "Mlieko polotučné XXL",
+    "desc": "Automaticky vygenerované ceny pre dňa 21.07.2026.",
+    "cat": "mliecne",
+    "sub": "mlieko",
+    "unit": "€/ks",
+    "onSale": true,
+    "saleUntil": "28.07.",
+    "tesco": {
+      "price": 2.81
+    },
+    "billa": {
+      "price": 3.08
+    },
+    "lidl": {
+      "price": 2.82
+    },
+    "kaufland": {
+      "price": 2.53
+    },
+    "jednota": {
+      "price": 3.0
+    },
+    "biedronka": {
+      "price": 2.53
+    }
+  },
+  "prod_126": {
+    "id": "prod_126",
+    "name": "Mlieko polotučné Bio",
+    "desc": "Automaticky vygenerované ceny pre dňa 21.07.2026.",
+    "cat": "mliecne",
+    "sub": "mlieko",
+    "unit": "€/ks",
+    "onSale": false,
+    "saleUntil": "",
+    "tesco": {
+      "price": 3.72
+    },
+    "billa": {
+      "price": 3.36
+    },
+    "lidl": {
+      "price": 2.89
+    },
+    "kaufland": {
+      "price": 3.04
+    },
+    "jednota": {
+      "price": 3.17
+    },
+    "biedronka": {
+      "price": 3.06
+    }
+  },
+  "prod_127": {
+    "id": "prod_127",
+    "name": "Mlieko plnotučné Bio",
+    "desc": "Automaticky vygenerované ceny pre dňa 21.07.2026.",
+    "cat": "mliecne",
+    "sub": "mlieko",
+    "unit": "€/ks",
+    "onSale": false,
+    "saleUntil": "",
+    "tesco": {
+      "price": 1.02
+    },
+    "billa": null,
+    "lidl": {
+      "price": 1.01
+    },
+    "kaufland": {
+      "price": 1.0
+    },
+    "jednota": {
+      "price": 0.76
+    },
+    "biedronka": {
+      "price": 0.94
+    }
+  },
+  "prod_128": {
+    "id": "prod_128",
+    "name": "Mlieko plnotučné XXL",
+    "desc": "Automaticky vygenerované ceny pre dňa 21.07.2026.",
+    "cat": "mliecne",
+    "sub": "mlieko",
+    "unit": "€/ks",
+    "onSale": true,
+    "saleUntil": "25.07.",
+    "tesco": null,
+    "billa": {
+      "price": 3.16
+    },
+    "lidl": {
+      "price": 2.38
+    },
+    "kaufland": null,
+    "jednota": null,
+    "biedronka": {
+      "price": 3.16
+    }
+  },
+  "prod_129": {
+    "id": "prod_129",
+    "name": "Mlieko plnotučné Premium",
+    "desc": "Automaticky vygenerované ceny pre dňa 21.07.2026.",
+    "cat": "mliecne",
+    "sub": "mlieko",
+    "unit": "€/ks",
+    "onSale": false,
+    "saleUntil": "",
+    "tesco": null,
+    "billa": {
+      "price": 2.41
+    },
+    "lidl": {
+      "price": 2.41
+    },
+    "kaufland": {
+      "price": 2.88
+    },
+    "jednota": {
+      "price": 2.86
+    },
+    "biedronka": {
+      "price": 2.99
+    }
+  },
+  "prod_130": {
+    "id": "prod_130",
+    "name": "Mlieko polotučné Bio",
+    "desc": "Automaticky vygenerované ceny pre dňa 21.07.2026.",
+    "cat": "mliecne",
+    "sub": "mlieko",
+    "unit": "€/ks",
+    "onSale": true,
+    "saleUntil": "28.07.",
+    "tesco": {
+      "price": 3.11
+    },
+    "billa": {
+      "price": 3.01
+    },
+    "lidl": {
+      "price": 2.58
+    },
+    "kaufland": {
+      "price": 2.78
+    },
+    "jednota": null,
+    "biedronka": {
+      "price": 3.0
+    }
+  },
+  "prod_131": {
+    "id": "prod_131",
+    "name": "Mlieko plnotučné Classic",
+    "desc": "Automaticky vygenerované ceny pre dňa 21.07.2026.",
+    "cat": "mliecne",
+    "sub": "mlieko",
+    "unit": "€/ks",
+    "onSale": false,
+    "saleUntil": "",
+    "tesco": {
+      "price": 0.99
+    },
+    "billa": {
+      "price": 1.05
+    },
+    "lidl": {
+      "price": 0.97
+    },
+    "kaufland": {
+      "price": 1.01
+    },
+    "jednota": {
+      "price": 1.0
+    },
+    "biedronka": {
+      "price": 1.06
+    }
+  },
+  "prod_132": {
+    "id": "prod_132",
+    "name": "Mlieko plnotučné Bio",
+    "desc": "Automaticky vygenerované ceny pre dňa 21.07.2026.",
+    "cat": "mliecne",
+    "sub": "mlieko",
+    "unit": "€/ks",
+    "onSale": false,
+    "saleUntil": "",
+    "tesco": {
+      "price": 0.71
+    },
+    "billa": {
+      "price": 0.67
+    },
+    "lidl": {
+      "price": 0.71
+    },
+    "kaufland": null,
+    "jednota": {
+      "price": 0.69
+    },
+    "biedronka": {
+      "price": 0.68
+    }
+  },
+  "prod_133": {
+    "id": "prod_133",
+    "name": "Mlieko plnotučné Bio",
+    "desc": "Automaticky vygenerované ceny pre dňa 21.07.2026.",
+    "cat": "mliecne",
+    "sub": "mlieko",
+    "unit": "€/ks",
+    "onSale": false,
+    "saleUntil": "",
+    "tesco": null,
+    "billa": null,
+    "lidl": {
+      "price": 0.94
+    },
+    "kaufland": {
+      "price": 0.95
+    },
+    "jednota": {
+      "price": 0.92
+    },
+    "biedronka": {
+      "price": 0.89
+    }
+  },
+  "prod_134": {
+    "id": "prod_134",
+    "name": "Mlieko polotučné Bio",
+    "desc": "Automaticky vygenerované ceny pre dňa 21.07.2026.",
+    "cat": "mliecne",
+    "sub": "mlieko",
+    "unit": "€/ks",
+    "onSale": false,
+    "saleUntil": "",
+    "tesco": {
+      "price": 2.04
+    },
+    "billa": {
+      "price": 2.01
+    },
+    "lidl": {
+      "price": 1.71
+    },
+    "kaufland": null,
+    "jednota": {
+      "price": 1.98
+    },
+    "biedronka": {
+      "price": 2.18
+    }
+  },
+  "prod_135": {
+    "id": "prod_135",
+    "name": "Mlieko polotučné Classic",
+    "desc": "Automaticky vygenerované ceny pre dňa 21.07.2026.",
+    "cat": "mliecne",
+    "sub": "mlieko",
+    "unit": "€/ks",
+    "onSale": true,
+    "saleUntil": "24.07.",
+    "tesco": {
+      "price": 4.33
+    },
+    "billa": {
+      "price": 3.45
+    },
+    "lidl": {
+      "price": 3.87
+    },
+    "kaufland": {
+      "price": 4.26
+    },
+    "jednota": {
+      "price": 3.94
+    },
+    "biedronka": {
+      "price": 3.67
+    }
+  },
+  "prod_136": {
+    "id": "prod_136",
+    "name": "Mlieko polotučné Premium",
+    "desc": "Automaticky vygenerované ceny pre dňa 21.07.2026.",
+    "cat": "mliecne",
+    "sub": "mlieko",
+    "unit": "€/ks",
+    "onSale": true,
+    "saleUntil": "24.07.",
+    "tesco": {
+      "price": 1.35
+    },
+    "billa": {
+      "price": 1.1
+    },
+    "lidl": {
+      "price": 1.3
+    },
+    "kaufland": {
+      "price": 1.47
+    },
+    "jednota": {
+      "price": 1.36
+    },
+    "biedronka": {
+      "price": 1.4
+    }
+  },
+  "prod_137": {
+    "id": "prod_137",
+    "name": "Mlieko plnotučné Classic",
+    "desc": "Automaticky vygenerované ceny pre dňa 21.07.2026.",
+    "cat": "mliecne",
+    "sub": "mlieko",
+    "unit": "€/ks",
+    "onSale": false,
+    "saleUntil": "",
+    "tesco": {
+      "price": 2.16
+    },
+    "billa": {
+      "price": 1.96
+    },
+    "lidl": {
+      "price": 1.8
+    },
+    "kaufland": {
+      "price": 2.12
+    },
+    "jednota": {
+      "price": 1.81
+    },
+    "biedronka": {
+      "price": 1.7
+    }
+  },
+  "prod_138": {
+    "id": "prod_138",
+    "name": "Mlieko plnotučné Bio",
+    "desc": "Automaticky vygenerované ceny pre dňa 21.07.2026.",
+    "cat": "mliecne",
+    "sub": "mlieko",
+    "unit": "€/ks",
+    "onSale": false,
+    "saleUntil": "",
+    "tesco": {
+      "price": 3.18
+    },
+    "billa": {
+      "price": 2.46
+    },
+    "lidl": {
+      "price": 2.77
+    },
+    "kaufland": {
+      "price": 3.06
+    },
+    "jednota": {
+      "price": 3.2
+    },
+    "biedronka": null
+  },
+  "prod_139": {
+    "id": "prod_139",
+    "name": "Mlieko plnotučné Bio",
+    "desc": "Automaticky vygenerované ceny pre dňa 21.07.2026.",
+    "cat": "mliecne",
+    "sub": "mlieko",
+    "unit": "€/ks",
+    "onSale": false,
+    "saleUntil": "",
+    "tesco": {
+      "price": 2.15
+    },
+    "billa": {
+      "price": 1.91
+    },
+    "lidl": {
+      "price": 1.88
+    },
+    "kaufland": {
+      "price": 2.42
+    },
+    "jednota": {
+      "price": 2.01
+    },
+    "biedronka": {
+      "price": 1.84
+    }
+  },
+  "prod_140": {
+    "id": "prod_140",
+    "name": "Mlieko polotučné Classic",
+    "desc": "Automaticky vygenerované ceny pre dňa 21.07.2026.",
+    "cat": "mliecne",
+    "sub": "mlieko",
+    "unit": "€/ks",
+    "onSale": false,
+    "saleUntil": "",
+    "tesco": {
+      "price": 3.73
+    },
+    "billa": {
+      "price": 4.03
+    },
+    "lidl": {
+      "price": 3.7
+    },
+    "kaufland": {
+      "price": 4.3
+    },
+    "jednota": {
+      "price": 4.08
+    },
+    "biedronka": null
+  },
+  "prod_141": {
+    "id": "prod_141",
+    "name": "Mlieko polotučné XXL",
+    "desc": "Automaticky vygenerované ceny pre dňa 21.07.2026.",
+    "cat": "mliecne",
+    "sub": "mlieko",
+    "unit": "€/ks",
+    "onSale": false,
+    "saleUntil": "",
+    "tesco": {
+      "price": 3.61
+    },
+    "billa": {
+      "price": 4.06
+    },
+    "lidl": {
+      "price": 3.33
+    },
+    "kaufland": {
+      "price": 3.92
+    },
+    "jednota": {
+      "price": 3.72
+    },
+    "biedronka": {
+      "price": 3.27
+    }
+  },
+  "prod_142": {
+    "id": "prod_142",
+    "name": "Mlieko plnotučné Classic",
+    "desc": "Automaticky vygenerované ceny pre dňa 21.07.2026.",
+    "cat": "mliecne",
+    "sub": "mlieko",
+    "unit": "€/ks",
+    "onSale": false,
+    "saleUntil": "",
+    "tesco": {
+      "price": 0.98
+    },
+    "billa": {
+      "price": 0.89
+    },
+    "lidl": {
+      "price": 0.82
+    },
+    "kaufland": null,
+    "jednota": {
+      "price": 1.0
+    },
+    "biedronka": {
+      "price": 0.83
+    }
+  },
+  "prod_143": {
+    "id": "prod_143",
+    "name": "Mlieko plnotučné Bio",
+    "desc": "Automaticky vygenerované ceny pre dňa 21.07.2026.",
+    "cat": "mliecne",
+    "sub": "mlieko",
+    "unit": "€/ks",
+    "onSale": true,
+    "saleUntil": "22.07.",
+    "tesco": {
+      "price": 0.59
+    },
+    "billa": {
+      "price": 0.71
+    },
+    "lidl": {
+      "price": 0.6
+    },
+    "kaufland": {
+      "price": 0.74
+    },
+    "jednota": {
+      "price": 0.77
+    },
+    "biedronka": null
+  },
+  "prod_144": {
+    "id": "prod_144",
+    "name": "Mlieko polotučné Premium",
+    "desc": "Automaticky vygenerované ceny pre dňa 21.07.2026.",
+    "cat": "mliecne",
+    "sub": "mlieko",
+    "unit": "€/ks",
+    "onSale": false,
+    "saleUntil": "",
+    "tesco": {
+      "price": 1.18
+    },
+    "billa": {
+      "price": 1.22
+    },
+    "lidl": {
+      "price": 1.16
+    },
+    "kaufland": null,
+    "jednota": {
+      "price": 1.1
+    },
+    "biedronka": {
+      "price": 1.07
+    }
+  },
+  "prod_145": {
+    "id": "prod_145",
+    "name": "Mlieko polotučné Bio",
+    "desc": "Automaticky vygenerované ceny pre dňa 21.07.2026.",
+    "cat": "mliecne",
+    "sub": "mlieko",
+    "unit": "€/ks",
+    "onSale": true,
+    "saleUntil": "23.07.",
+    "tesco": {
+      "price": 2.61
+    },
+    "billa": {
+      "price": 2.12
+    },
+    "lidl": {
+      "price": 2.48
+    },
+    "kaufland": {
+      "price": 2.52
+    },
+    "jednota": {
+      "price": 2.5
+    },
+    "biedronka": {
+      "price": 2.44
+    }
+  },
+  "prod_146": {
+    "id": "prod_146",
+    "name": "Mlieko polotučné Classic",
+    "desc": "Automaticky vygenerované ceny pre dňa 21.07.2026.",
+    "cat": "mliecne",
+    "sub": "mlieko",
+    "unit": "€/ks",
+    "onSale": false,
+    "saleUntil": "",
+    "tesco": {
+      "price": 2.74
+    },
+    "billa": {
+      "price": 2.68
+    },
+    "lidl": {
+      "price": 2.55
+    },
+    "kaufland": {
+      "price": 2.92
+    },
+    "jednota": {
+      "price": 3.22
+    },
+    "biedronka": {
+      "price": 2.77
+    }
+  },
+  "prod_147": {
+    "id": "prod_147",
+    "name": "Mlieko polotučné Classic",
+    "desc": "Automaticky vygenerované ceny pre dňa 21.07.2026.",
+    "cat": "mliecne",
+    "sub": "mlieko",
+    "unit": "€/ks",
+    "onSale": false,
+    "saleUntil": "",
+    "tesco": {
+      "price": 0.93
+    },
+    "billa": {
+      "price": 0.87
+    },
+    "lidl": {
+      "price": 1.0
+    },
+    "kaufland": {
+      "price": 1.06
+    },
+    "jednota": {
+      "price": 0.9
+    },
+    "biedronka": {
+      "price": 0.85
+    }
+  },
+  "prod_148": {
+    "id": "prod_148",
+    "name": "Mlieko plnotučné Premium",
+    "desc": "Automaticky vygenerované ceny pre dňa 21.07.2026.",
+    "cat": "mliecne",
+    "sub": "mlieko",
+    "unit": "€/ks",
+    "onSale": true,
+    "saleUntil": "25.07.",
+    "tesco": {
+      "price": 1.12
+    },
+    "billa": {
+      "price": 0.87
+    },
+    "lidl": {
+      "price": 0.89
+    },
+    "kaufland": {
+      "price": 1.01
+    },
+    "jednota": {
+      "price": 1.0
+    },
+    "biedronka": {
+      "price": 0.93
+    }
+  },
+  "prod_149": {
+    "id": "prod_149",
+    "name": "Mlieko plnotučné Premium",
+    "desc": "Automaticky vygenerované ceny pre dňa 21.07.2026.",
+    "cat": "mliecne",
+    "sub": "mlieko",
+    "unit": "€/ks",
+    "onSale": false,
+    "saleUntil": "",
+    "tesco": {
+      "price": 2.84
+    },
+    "billa": {
+      "price": 2.72
+    },
+    "lidl": {
+      "price": 3.08
+    },
+    "kaufland": {
+      "price": 2.76
+    },
+    "jednota": {
+      "price": 2.99
+    },
+    "biedronka": {
+      "price": 2.88
+    }
+  },
+  "prod_150": {
+    "id": "prod_150",
+    "name": "Mlieko plnotučné Bio",
+    "desc": "Automaticky vygenerované ceny pre dňa 21.07.2026.",
+    "cat": "mliecne",
+    "sub": "mlieko",
+    "unit": "€/ks",
+    "onSale": false,
+    "saleUntil": "",
+    "tesco": {
+      "price": 2.73
+    },
+    "billa": null,
+    "lidl": null,
+    "kaufland": {
+      "price": 2.36
+    },
+    "jednota": {
+      "price": 2.6
+    },
+    "biedronka": {
+      "price": 2.61
+    }
+  },
+  "prod_151": {
+    "id": "prod_151",
+    "name": "Mozzarella XXL",
+    "desc": "Automaticky vygenerované ceny pre dňa 21.07.2026.",
+    "cat": "mliecne",
+    "sub": "syry",
+    "unit": "€/ks",
+    "onSale": true,
+    "saleUntil": "24.07.",
+    "tesco": {
+      "price": 2.23
+    },
+    "billa": {
+      "price": 2.19
+    },
+    "lidl": null,
+    "kaufland": {
+      "price": 1.84
+    },
+    "jednota": {
+      "price": 1.98
+    },
+    "biedronka": {
+      "price": 2.22
+    }
+  },
+  "prod_152": {
+    "id": "prod_152",
+    "name": "Gouda XXL",
+    "desc": "Automaticky vygenerované ceny pre dňa 21.07.2026.",
+    "cat": "mliecne",
+    "sub": "syry",
+    "unit": "€/ks",
+    "onSale": false,
+    "saleUntil": "",
+    "tesco": null,
+    "billa": {
+      "price": 1.86
+    },
+    "lidl": null,
+    "kaufland": {
+      "price": 2.22
+    },
+    "jednota": {
+      "price": 1.73
+    },
+    "biedronka": {
+      "price": 1.76
+    }
+  },
+  "prod_153": {
+    "id": "prod_153",
+    "name": "Eidam 45% Classic",
+    "desc": "Automaticky vygenerované ceny pre dňa 21.07.2026.",
+    "cat": "mliecne",
+    "sub": "syry",
+    "unit": "€/ks",
+    "onSale": false,
+    "saleUntil": "",
+    "tesco": {
+      "price": 0.87
+    },
+    "billa": {
+      "price": 0.82
+    },
+    "lidl": {
+      "price": 0.83
+    },
+    "kaufland": null,
+    "jednota": {
+      "price": 0.68
+    },
+    "biedronka": {
+      "price": 0.82
+    }
+  },
+  "prod_154": {
+    "id": "prod_154",
+    "name": "Gouda Classic",
+    "desc": "Automaticky vygenerované ceny pre dňa 21.07.2026.",
+    "cat": "mliecne",
+    "sub": "syry",
+    "unit": "€/ks",
+    "onSale": false,
+    "saleUntil": "",
+    "tesco": {
+      "price": 1.42
+    },
+    "billa": {
+      "price": 1.14
+    },
+    "lidl": {
+      "price": 1.13
+    },
+    "kaufland": null,
+    "jednota": {
+      "price": 1.35
+    },
+    "biedronka": {
+      "price": 1.29
+    }
+  },
+  "prod_155": {
+    "id": "prod_155",
+    "name": "Gouda Classic",
+    "desc": "Automaticky vygenerované ceny pre dňa 21.07.2026.",
+    "cat": "mliecne",
+    "sub": "syry",
+    "unit": "€/ks",
+    "onSale": false,
+    "saleUntil": "",
+    "tesco": {
+      "price": 1.89
+    },
+    "billa": {
+      "price": 1.71
+    },
+    "lidl": {
+      "price": 2.04
+    },
+    "kaufland": null,
+    "jednota": {
+      "price": 2.04
+    },
+    "biedronka": null
+  },
+  "prod_156": {
+    "id": "prod_156",
+    "name": "Mozzarella Bio",
+    "desc": "Automaticky vygenerované ceny pre dňa 21.07.2026.",
+    "cat": "mliecne",
+    "sub": "syry",
+    "unit": "€/ks",
+    "onSale": true,
+    "saleUntil": "22.07.",
+    "tesco": {
+      "price": 2.6
+    },
+    "billa": {
+      "price": 2.17
+    },
+    "lidl": {
+      "price": 2.33
+    },
+    "kaufland": {
+      "price": 2.27
+    },
+    "jednota": {
+      "price": 2.7
+    },
+    "biedronka": {
+      "price": 2.52
+    }
+  },
+  "prod_157": {
+    "id": "prod_157",
+    "name": "Gouda Bio",
+    "desc": "Automaticky vygenerované ceny pre dňa 21.07.2026.",
+    "cat": "mliecne",
+    "sub": "syry",
+    "unit": "€/ks",
+    "onSale": true,
+    "saleUntil": "28.07.",
+    "tesco": {
+      "price": 0.79
+    },
+    "billa": {
+      "price": 0.63
+    },
+    "lidl": {
+      "price": 0.81
+    },
+    "kaufland": null,
+    "jednota": {
+      "price": 0.81
+    },
+    "biedronka": {
+      "price": 0.7
+    }
+  },
+  "prod_158": {
+    "id": "prod_158",
+    "name": "Eidam 45% XXL",
+    "desc": "Automaticky vygenerované ceny pre dňa 21.07.2026.",
+    "cat": "mliecne",
+    "sub": "syry",
+    "unit": "€/ks",
+    "onSale": false,
+    "saleUntil": "",
+    "tesco": {
+      "price": 1.2
+    },
+    "billa": {
+      "price": 1.27
+    },
+    "lidl": {
+      "price": 1.2
+    },
+    "kaufland": {
+      "price": 1.37
+    },
+    "jednota": {
+      "price": 1.26
+    },
+    "biedronka": {
+      "price": 1.31
+    }
+  },
+  "prod_159": {
+    "id": "prod_159",
+    "name": "Gouda Premium",
+    "desc": "Automaticky vygenerované ceny pre dňa 21.07.2026.",
+    "cat": "mliecne",
+    "sub": "syry",
+    "unit": "€/ks",
+    "onSale": false,
+    "saleUntil": "",
+    "tesco": {
+      "price": 3.17
+    },
+    "billa": null,
+    "lidl": {
+      "price": 2.85
+    },
+    "kaufland": {
+      "price": 2.78
+    },
+    "jednota": {
+      "price": 3.23
+    },
+    "biedronka": null
+  },
+  "prod_160": {
+    "id": "prod_160",
+    "name": "Gouda Premium",
+    "desc": "Automaticky vygenerované ceny pre dňa 21.07.2026.",
+    "cat": "mliecne",
+    "sub": "syry",
+    "unit": "€/ks",
+    "onSale": false,
+    "saleUntil": "",
+    "tesco": {
+      "price": 3.04
+    },
+    "billa": {
+      "price": 3.0
+    },
+    "lidl": {
+      "price": 3.6
+    },
+    "kaufland": {
+      "price": 3.17
+    },
+    "jednota": {
+      "price": 3.32
+    },
+    "biedronka": {
+      "price": 3.65
+    }
+  },
+  "prod_161": {
+    "id": "prod_161",
+    "name": "Gouda XXL",
+    "desc": "Automaticky vygenerované ceny pre dňa 21.07.2026.",
+    "cat": "mliecne",
+    "sub": "syry",
+    "unit": "€/ks",
+    "onSale": true,
+    "saleUntil": "27.07.",
+    "tesco": {
+      "price": 1.27
+    },
+    "billa": {
+      "price": 1.46
+    },
+    "lidl": {
+      "price": 1.57
+    },
+    "kaufland": {
+      "price": 1.36
+    },
+    "jednota": {
+      "price": 1.52
+    },
+    "biedronka": {
+      "price": 1.26
+    }
+  },
+  "prod_162": {
+    "id": "prod_162",
+    "name": "Eidam 45% XXL",
+    "desc": "Automaticky vygenerované ceny pre dňa 21.07.2026.",
+    "cat": "mliecne",
+    "sub": "syry",
+    "unit": "€/ks",
+    "onSale": true,
+    "saleUntil": "22.07.",
+    "tesco": {
+      "price": 1.02
+    },
+    "billa": null,
+    "lidl": {
+      "price": 1.11
+    },
+    "kaufland": {
+      "price": 1.0
+    },
+    "jednota": {
+      "price": 1.02
+    },
+    "biedronka": {
+      "price": 1.3
+    }
+  },
+  "prod_163": {
+    "id": "prod_163",
+    "name": "Gouda Premium",
+    "desc": "Automaticky vygenerované ceny pre dňa 21.07.2026.",
+    "cat": "mliecne",
+    "sub": "syry",
+    "unit": "€/ks",
+    "onSale": false,
+    "saleUntil": "",
+    "tesco": {
+      "price": 1.56
+    },
+    "billa": {
+      "price": 1.41
+    },
+    "lidl": {
+      "price": 1.36
+    },
+    "kaufland": {
+      "price": 1.57
+    },
+    "jednota": {
+      "price": 1.56
+    },
+    "biedronka": {
+      "price": 1.52
+    }
+  },
+  "prod_164": {
+    "id": "prod_164",
+    "name": "Mozzarella Bio",
+    "desc": "Automaticky vygenerované ceny pre dňa 21.07.2026.",
+    "cat": "mliecne",
+    "sub": "syry",
+    "unit": "€/ks",
+    "onSale": false,
+    "saleUntil": "",
+    "tesco": null,
+    "billa": {
+      "price": 4.07
+    },
+    "lidl": {
+      "price": 4.25
+    },
+    "kaufland": {
+      "price": 3.88
+    },
+    "jednota": null,
+    "biedronka": null
+  },
+  "prod_165": {
+    "id": "prod_165",
+    "name": "Gouda Bio",
+    "desc": "Automaticky vygenerované ceny pre dňa 21.07.2026.",
+    "cat": "mliecne",
+    "sub": "syry",
+    "unit": "€/ks",
+    "onSale": false,
+    "saleUntil": "",
+    "tesco": {
+      "price": 2.39
+    },
+    "billa": {
+      "price": 2.76
+    },
+    "lidl": {
+      "price": 2.32
+    },
+    "kaufland": {
+      "price": 2.72
+    },
+    "jednota": null,
+    "biedronka": null
+  },
+  "prod_166": {
+    "id": "prod_166",
+    "name": "Gouda Bio",
+    "desc": "Automaticky vygenerované ceny pre dňa 21.07.2026.",
+    "cat": "mliecne",
+    "sub": "syry",
+    "unit": "€/ks",
+    "onSale": false,
+    "saleUntil": "",
+    "tesco": {
+      "price": 3.32
+    },
+    "billa": {
+      "price": 3.33
+    },
+    "lidl": {
+      "price": 3.94
+    },
+    "kaufland": {
+      "price": 3.27
+    },
+    "jednota": {
+      "price": 4.09
+    },
+    "biedronka": null
+  },
+  "prod_167": {
+    "id": "prod_167",
+    "name": "Gouda Bio",
+    "desc": "Automaticky vygenerované ceny pre dňa 21.07.2026.",
+    "cat": "mliecne",
+    "sub": "syry",
+    "unit": "€/ks",
+    "onSale": true,
+    "saleUntil": "26.07.",
+    "tesco": {
+      "price": 1.94
+    },
+    "billa": {
+      "price": 1.93
+    },
+    "lidl": {
+      "price": 1.57
+    },
+    "kaufland": {
+      "price": 1.83
+    },
+    "jednota": {
+      "price": 1.5
+    },
+    "biedronka": {
+      "price": 1.78
+    }
+  },
+  "prod_168": {
+    "id": "prod_168",
+    "name": "Mozzarella Classic",
+    "desc": "Automaticky vygenerované ceny pre dňa 21.07.2026.",
+    "cat": "mliecne",
+    "sub": "syry",
+    "unit": "€/ks",
+    "onSale": false,
+    "saleUntil": "",
+    "tesco": {
+      "price": 1.45
+    },
+    "billa": {
+      "price": 1.89
+    },
+    "lidl": {
+      "price": 1.63
+    },
+    "kaufland": {
+      "price": 1.63
+    },
+    "jednota": {
+      "price": 1.75
+    },
+    "biedronka": {
+      "price": 1.44
+    }
+  },
+  "prod_169": {
+    "id": "prod_169",
+    "name": "Eidam 45% XXL",
+    "desc": "Automaticky vygenerované ceny pre dňa 21.07.2026.",
+    "cat": "mliecne",
+    "sub": "syry",
+    "unit": "€/ks",
+    "onSale": false,
+    "saleUntil": "",
+    "tesco": {
+      "price": 1.09
+    },
+    "billa": null,
+    "lidl": {
+      "price": 1.32
+    },
+    "kaufland": {
+      "price": 1.17
+    },
+    "jednota": null,
+    "biedronka": {
+      "price": 1.28
+    }
+  },
+  "prod_170": {
+    "id": "prod_170",
+    "name": "Mozzarella Premium",
+    "desc": "Automaticky vygenerované ceny pre dňa 21.07.2026.",
+    "cat": "mliecne",
+    "sub": "syry",
+    "unit": "€/ks",
+    "onSale": false,
+    "saleUntil": "",
+    "tesco": {
+      "price": 2.48
+    },
+    "billa": {
+      "price": 2.16
+    },
+    "lidl": null,
+    "kaufland": {
+      "price": 2.0
+    },
+    "jednota": null,
+    "biedronka": {
+      "price": 2.3
+    }
+  },
+  "prod_171": {
+    "id": "prod_171",
+    "name": "Eidam 45% Classic",
+    "desc": "Automaticky vygenerované ceny pre dňa 21.07.2026.",
+    "cat": "mliecne",
+    "sub": "syry",
+    "unit": "€/ks",
+    "onSale": true,
+    "saleUntil": "22.07.",
+    "tesco": null,
+    "billa": {
+      "price": 2.47
+    },
+    "lidl": null,
+    "kaufland": {
+      "price": 2.2
+    },
+    "jednota": {
+      "price": 2.72
+    },
+    "biedronka": {
+      "price": 2.35
+    }
+  },
+  "prod_172": {
+    "id": "prod_172",
+    "name": "Mozzarella Classic",
+    "desc": "Automaticky vygenerované ceny pre dňa 21.07.2026.",
+    "cat": "mliecne",
+    "sub": "syry",
+    "unit": "€/ks",
+    "onSale": false,
+    "saleUntil": "",
+    "tesco": {
+      "price": 2.71
+    },
+    "billa": {
+      "price": 2.72
+    },
+    "lidl": {
+      "price": 2.43
+    },
+    "kaufland": {
+      "price": 2.26
+    },
+    "jednota": {
+      "price": 2.35
+    },
+    "biedronka": {
+      "price": 2.65
+    }
+  },
+  "prod_173": {
+    "id": "prod_173",
+    "name": "Mozzarella Premium",
+    "desc": "Automaticky vygenerované ceny pre dňa 21.07.2026.",
+    "cat": "mliecne",
+    "sub": "syry",
+    "unit": "€/ks",
+    "onSale": false,
+    "saleUntil": "",
+    "tesco": {
+      "price": 3.72
+    },
+    "billa": null,
+    "lidl": {
+      "price": 3.64
+    },
+    "kaufland": {
+      "price": 3.95
+    },
+    "jednota": {
+      "price": 4.02
+    },
+    "biedronka": {
+      "price": 4.02
+    }
+  },
+  "prod_174": {
+    "id": "prod_174",
+    "name": "Eidam 45% XXL",
+    "desc": "Automaticky vygenerované ceny pre dňa 21.07.2026.",
+    "cat": "mliecne",
+    "sub": "syry",
+    "unit": "€/ks",
+    "onSale": false,
+    "saleUntil": "",
+    "tesco": {
+      "price": 2.91
+    },
+    "billa": {
+      "price": 2.73
+    },
+    "lidl": {
+      "price": 3.03
+    },
+    "kaufland": {
+      "price": 2.78
+    },
+    "jednota": {
+      "price": 3.13
+    },
+    "biedronka": {
+      "price": 2.59
+    }
+  },
+  "prod_175": {
+    "id": "prod_175",
+    "name": "Eidam 45% XXL",
+    "desc": "Automaticky vygenerované ceny pre dňa 21.07.2026.",
+    "cat": "mliecne",
+    "sub": "syry",
+    "unit": "€/ks",
+    "onSale": false,
+    "saleUntil": "",
+    "tesco": {
+      "price": 3.95
+    },
+    "billa": {
+      "price": 3.98
+    },
+    "lidl": {
+      "price": 4.17
+    },
+    "kaufland": {
+      "price": 4.51
+    },
+    "jednota": null,
+    "biedronka": null
+  },
+  "prod_176": {
+    "id": "prod_176",
+    "name": "Eidam 45% XXL",
+    "desc": "Automaticky vygenerované ceny pre dňa 21.07.2026.",
+    "cat": "mliecne",
+    "sub": "syry",
+    "unit": "€/ks",
+    "onSale": true,
+    "saleUntil": "28.07.",
+    "tesco": {
+      "price": 1.75
+    },
+    "billa": {
+      "price": 1.98
+    },
+    "lidl": {
+      "price": 2.05
+    },
+    "kaufland": {
+      "price": 1.9
+    },
+    "jednota": {
+      "price": 1.79
+    },
+    "biedronka": {
+      "price": 1.76
+    }
+  },
+  "prod_177": {
+    "id": "prod_177",
+    "name": "Mozzarella Premium",
+    "desc": "Automaticky vygenerované ceny pre dňa 21.07.2026.",
+    "cat": "mliecne",
+    "sub": "syry",
+    "unit": "€/ks",
+    "onSale": false,
+    "saleUntil": "",
+    "tesco": null,
+    "billa": {
+      "price": 1.95
+    },
+    "lidl": {
+      "price": 2.06
+    },
+    "kaufland": {
+      "price": 2.4
+    },
+    "jednota": {
+      "price": 1.85
+    },
+    "biedronka": null
+  },
+  "prod_178": {
+    "id": "prod_178",
+    "name": "Mozzarella XXL",
+    "desc": "Automaticky vygenerované ceny pre dňa 21.07.2026.",
+    "cat": "mliecne",
+    "sub": "syry",
+    "unit": "€/ks",
+    "onSale": false,
+    "saleUntil": "",
+    "tesco": {
+      "price": 4.25
+    },
+    "billa": {
+      "price": 3.99
+    },
+    "lidl": {
+      "price": 3.31
+    },
+    "kaufland": {
+      "price": 4.22
+    },
+    "jednota": null,
+    "biedronka": null
+  },
+  "prod_179": {
+    "id": "prod_179",
+    "name": "Eidam 45% Premium",
+    "desc": "Automaticky vygenerované ceny pre dňa 21.07.2026.",
+    "cat": "mliecne",
+    "sub": "syry",
+    "unit": "€/ks",
+    "onSale": true,
+    "saleUntil": "25.07.",
+    "tesco": {
+      "price": 0.66
+    },
+    "billa": {
+      "price": 0.75
+    },
+    "lidl": {
+      "price": 0.61
+    },
+    "kaufland": {
+      "price": 0.77
+    },
+    "jednota": {
+      "price": 0.72
+    },
+    "biedronka": null
+  },
+  "prod_180": {
+    "id": "prod_180",
+    "name": "Gouda Premium",
+    "desc": "Automaticky vygenerované ceny pre dňa 21.07.2026.",
+    "cat": "mliecne",
+    "sub": "syry",
+    "unit": "€/ks",
+    "onSale": true,
+    "saleUntil": "26.07.",
+    "tesco": {
+      "price": 3.28
+    },
+    "billa": {
+      "price": 3.45
+    },
+    "lidl": {
+      "price": 3.86
+    },
+    "kaufland": null,
+    "jednota": {
+      "price": 3.47
+    },
+    "biedronka": {
+      "price": 3.76
+    }
+  },
+  "prod_181": {
+    "id": "prod_181",
+    "name": "Mozzarella Bio",
+    "desc": "Automaticky vygenerované ceny pre dňa 21.07.2026.",
+    "cat": "mliecne",
+    "sub": "syry",
+    "unit": "€/ks",
+    "onSale": false,
+    "saleUntil": "",
+    "tesco": {
+      "price": 1.86
+    },
+    "billa": {
+      "price": 1.89
+    },
+    "lidl": {
+      "price": 1.88
+    },
+    "kaufland": {
+      "price": 1.89
+    },
+    "jednota": {
+      "price": 1.58
+    },
+    "biedronka": {
+      "price": 1.68
+    }
+  },
+  "prod_182": {
+    "id": "prod_182",
+    "name": "Eidam 45% Premium",
+    "desc": "Automaticky vygenerované ceny pre dňa 21.07.2026.",
+    "cat": "mliecne",
+    "sub": "syry",
+    "unit": "€/ks",
+    "onSale": false,
+    "saleUntil": "",
+    "tesco": {
+      "price": 3.8
+    },
+    "billa": {
+      "price": 3.67
+    },
+    "lidl": {
+      "price": 4.03
+    },
+    "kaufland": {
+      "price": 3.44
+    },
+    "jednota": {
+      "price": 3.22
+    },
+    "biedronka": {
+      "price": 3.11
+    }
+  },
+  "prod_183": {
+    "id": "prod_183",
+    "name": "Gouda Classic",
+    "desc": "Automaticky vygenerované ceny pre dňa 21.07.2026.",
+    "cat": "mliecne",
+    "sub": "syry",
+    "unit": "€/ks",
+    "onSale": true,
+    "saleUntil": "27.07.",
+    "tesco": {
+      "price": 1.57
+    },
+    "billa": {
+      "price": 1.55
+    },
+    "lidl": {
+      "price": 1.49
+    },
+    "kaufland": {
+      "price": 1.32
+    },
+    "jednota": {
+      "price": 1.52
+    },
+    "biedronka": {
+      "price": 1.49
+    }
+  },
+  "prod_184": {
+    "id": "prod_184",
+    "name": "Eidam 45% Classic",
+    "desc": "Automaticky vygenerované ceny pre dňa 21.07.2026.",
+    "cat": "mliecne",
+    "sub": "syry",
+    "unit": "€/ks",
+    "onSale": true,
+    "saleUntil": "26.07.",
+    "tesco": {
+      "price": 1.45
+    },
+    "billa": {
+      "price": 1.38
+    },
+    "lidl": {
+      "price": 1.25
+    },
+    "kaufland": {
+      "price": 1.21
+    },
+    "jednota": null,
+    "biedronka": {
+      "price": 1.21
+    }
+  },
+  "prod_185": {
+    "id": "prod_185",
+    "name": "Eidam 45% Premium",
+    "desc": "Automaticky vygenerované ceny pre dňa 21.07.2026.",
+    "cat": "mliecne",
+    "sub": "syry",
+    "unit": "€/ks",
+    "onSale": false,
+    "saleUntil": "",
+    "tesco": {
+      "price": 2.71
+    },
+    "billa": {
+      "price": 2.68
+    },
+    "lidl": {
+      "price": 2.79
+    },
+    "kaufland": {
+      "price": 2.7
+    },
+    "jednota": {
+      "price": 2.9
+    },
+    "biedronka": {
+      "price": 2.7
+    }
+  },
+  "prod_186": {
+    "id": "prod_186",
+    "name": "Gouda Bio",
+    "desc": "Automaticky vygenerované ceny pre dňa 21.07.2026.",
+    "cat": "mliecne",
+    "sub": "syry",
+    "unit": "€/ks",
+    "onSale": false,
+    "saleUntil": "",
+    "tesco": null,
+    "billa": {
+      "price": 2.85
+    },
+    "lidl": {
+      "price": 2.9
+    },
+    "kaufland": null,
+    "jednota": {
+      "price": 3.08
+    },
+    "biedronka": {
+      "price": 3.41
+    }
+  },
+  "prod_187": {
+    "id": "prod_187",
+    "name": "Eidam 45% Classic",
+    "desc": "Automaticky vygenerované ceny pre dňa 21.07.2026.",
+    "cat": "mliecne",
+    "sub": "syry",
+    "unit": "€/ks",
+    "onSale": false,
+    "saleUntil": "",
+    "tesco": null,
+    "billa": {
+      "price": 1.51
+    },
+    "lidl": {
+      "price": 1.18
+    },
+    "kaufland": {
+      "price": 1.31
+    },
+    "jednota": {
+      "price": 1.35
+    },
+    "biedronka": {
+      "price": 1.26
+    }
+  },
+  "prod_188": {
+    "id": "prod_188",
+    "name": "Eidam 45% Bio",
+    "desc": "Automaticky vygenerované ceny pre dňa 21.07.2026.",
+    "cat": "mliecne",
+    "sub": "syry",
+    "unit": "€/ks",
+    "onSale": false,
+    "saleUntil": "",
+    "tesco": {
+      "price": 2.74
+    },
+    "billa": {
+      "price": 2.93
+    },
+    "lidl": {
+      "price": 3.02
+    },
+    "kaufland": {
+      "price": 2.61
+    },
+    "jednota": null,
+    "biedronka": {
+      "price": 3.03
+    }
+  },
+  "prod_189": {
+    "id": "prod_189",
+    "name": "Eidam 45% XXL",
+    "desc": "Automaticky vygenerované ceny pre dňa 21.07.2026.",
+    "cat": "mliecne",
+    "sub": "syry",
+    "unit": "€/ks",
+    "onSale": false,
+    "saleUntil": "",
+    "tesco": {
+      "price": 1.07
+    },
+    "billa": {
+      "price": 1.19
+    },
+    "lidl": {
+      "price": 1.01
+    },
+    "kaufland": {
+      "price": 1.03
+    },
+    "jednota": null,
+    "biedronka": {
+      "price": 1.06
+    }
+  },
+  "prod_190": {
+    "id": "prod_190",
+    "name": "Gouda XXL",
+    "desc": "Automaticky vygenerované ceny pre dňa 21.07.2026.",
+    "cat": "mliecne",
+    "sub": "syry",
+    "unit": "€/ks",
+    "onSale": true,
+    "saleUntil": "25.07.",
+    "tesco": {
+      "price": 1.67
+    },
+    "billa": {
+      "price": 1.65
+    },
+    "lidl": {
+      "price": 2.0
+    },
+    "kaufland": {
+      "price": 2.09
+    },
+    "jednota": {
+      "price": 1.68
+    },
+    "biedronka": {
+      "price": 2.0
+    }
+  },
+  "prod_191": {
+    "id": "prod_191",
+    "name": "Mozzarella XXL",
+    "desc": "Automaticky vygenerované ceny pre dňa 21.07.2026.",
+    "cat": "mliecne",
+    "sub": "syry",
+    "unit": "€/ks",
+    "onSale": false,
+    "saleUntil": "",
+    "tesco": {
+      "price": 0.54
+    },
+    "billa": {
+      "price": 0.65
+    },
+    "lidl": {
+      "price": 0.63
+    },
+    "kaufland": {
+      "price": 0.57
+    },
+    "jednota": null,
+    "biedronka": {
+      "price": 0.55
+    }
+  },
+  "prod_192": {
+    "id": "prod_192",
+    "name": "Mozzarella Classic",
+    "desc": "Automaticky vygenerované ceny pre dňa 21.07.2026.",
+    "cat": "mliecne",
+    "sub": "syry",
+    "unit": "€/ks",
+    "onSale": false,
+    "saleUntil": "",
+    "tesco": {
+      "price": 2.46
+    },
+    "billa": {
+      "price": 2.23
+    },
+    "lidl": {
+      "price": 2.57
+    },
+    "kaufland": {
+      "price": 2.13
+    },
+    "jednota": {
+      "price": 2.65
+    },
+    "biedronka": {
+      "price": 2.67
+    }
+  },
+  "prod_193": {
+    "id": "prod_193",
+    "name": "Mozzarella Premium",
+    "desc": "Automaticky vygenerované ceny pre dňa 21.07.2026.",
+    "cat": "mliecne",
+    "sub": "syry",
+    "unit": "€/ks",
+    "onSale": false,
+    "saleUntil": "",
+    "tesco": {
+      "price": 1.19
+    },
+    "billa": {
+      "price": 1.17
+    },
+    "lidl": {
+      "price": 1.15
+    },
+    "kaufland": {
+      "price": 1.18
+    },
+    "jednota": {
+      "price": 1.24
+    },
+    "biedronka": {
+      "price": 1.0
+    }
+  },
+  "prod_194": {
+    "id": "prod_194",
+    "name": "Gouda XXL",
+    "desc": "Automaticky vygenerované ceny pre dňa 21.07.2026.",
+    "cat": "mliecne",
+    "sub": "syry",
+    "unit": "€/ks",
+    "onSale": false,
+    "saleUntil": "",
+    "tesco": {
+      "price": 1.17
+    },
+    "billa": {
+      "price": 1.38
+    },
+    "lidl": null,
+    "kaufland": {
+      "price": 1.37
+    },
+    "jednota": {
+      "price": 1.2
+    },
+    "biedronka": null
+  },
+  "prod_195": {
+    "id": "prod_195",
+    "name": "Mozzarella Classic",
+    "desc": "Automaticky vygenerované ceny pre dňa 21.07.2026.",
+    "cat": "mliecne",
+    "sub": "syry",
+    "unit": "€/ks",
+    "onSale": false,
+    "saleUntil": "",
+    "tesco": {
+      "price": 3.67
+    },
+    "billa": {
+      "price": 3.44
+    },
+    "lidl": {
+      "price": 3.53
+    },
+    "kaufland": {
+      "price": 3.55
+    },
+    "jednota": {
+      "price": 2.89
+    },
+    "biedronka": {
+      "price": 3.67
+    }
+  },
+  "prod_196": {
+    "id": "prod_196",
+    "name": "Mozzarella Classic",
+    "desc": "Automaticky vygenerované ceny pre dňa 21.07.2026.",
+    "cat": "mliecne",
+    "sub": "syry",
+    "unit": "€/ks",
+    "onSale": false,
+    "saleUntil": "",
+    "tesco": null,
+    "billa": null,
+    "lidl": {
+      "price": 1.59
+    },
+    "kaufland": {
+      "price": 1.59
+    },
+    "jednota": {
+      "price": 1.87
+    },
+    "biedronka": {
+      "price": 1.74
+    }
+  },
+  "prod_197": {
+    "id": "prod_197",
+    "name": "Mozzarella Classic",
+    "desc": "Automaticky vygenerované ceny pre dňa 21.07.2026.",
+    "cat": "mliecne",
+    "sub": "syry",
+    "unit": "€/ks",
+    "onSale": false,
+    "saleUntil": "",
+    "tesco": {
+      "price": 1.45
+    },
+    "billa": {
+      "price": 1.38
+    },
+    "lidl": {
+      "price": 1.29
+    },
+    "kaufland": {
+      "price": 1.42
+    },
+    "jednota": {
+      "price": 1.23
+    },
+    "biedronka": {
+      "price": 1.2
+    }
+  },
+  "prod_198": {
+    "id": "prod_198",
+    "name": "Eidam 45% Bio",
+    "desc": "Automaticky vygenerované ceny pre dňa 21.07.2026.",
+    "cat": "mliecne",
+    "sub": "syry",
+    "unit": "€/ks",
+    "onSale": false,
+    "saleUntil": "",
+    "tesco": {
+      "price": 0.85
+    },
+    "billa": {
+      "price": 0.9
+    },
+    "lidl": {
+      "price": 0.99
+    },
+    "kaufland": {
+      "price": 0.93
+    },
+    "jednota": {
+      "price": 0.99
+    },
+    "biedronka": {
+      "price": 0.99
+    }
+  },
+  "prod_199": {
+    "id": "prod_199",
+    "name": "Eidam 45% Bio",
+    "desc": "Automaticky vygenerované ceny pre dňa 21.07.2026.",
+    "cat": "mliecne",
+    "sub": "syry",
+    "unit": "€/ks",
+    "onSale": false,
+    "saleUntil": "",
+    "tesco": {
+      "price": 3.07
+    },
+    "billa": {
+      "price": 3.04
+    },
+    "lidl": {
+      "price": 2.65
+    },
+    "kaufland": null,
+    "jednota": {
+      "price": 2.73
+    },
+    "biedronka": null
+  },
+  "prod_200": {
+    "id": "prod_200",
+    "name": "Eidam 45% Premium",
+    "desc": "Automaticky vygenerované ceny pre dňa 21.07.2026.",
+    "cat": "mliecne",
+    "sub": "syry",
+    "unit": "€/ks",
+    "onSale": false,
+    "saleUntil": "",
+    "tesco": {
+      "price": 1.37
+    },
+    "billa": {
+      "price": 1.4
+    },
+    "lidl": null,
+    "kaufland": {
+      "price": 1.39
+    },
+    "jednota": {
+      "price": 1.08
+    },
+    "biedronka": {
+      "price": 1.07
+    }
+  },
+  "prod_201": {
+    "id": "prod_201",
+    "name": "Kofola 2l Classic",
+    "desc": "Automaticky vygenerované ceny pre dňa 21.07.2026.",
+    "cat": "napoje",
+    "sub": "nealko",
+    "unit": "€/ks",
+    "onSale": false,
+    "saleUntil": "",
+    "tesco": {
+      "price": 1.55
+    },
+    "billa": {
+      "price": 1.76
+    },
+    "lidl": {
+      "price": 1.68
+    },
+    "kaufland": {
+      "price": 1.61
+    },
+    "jednota": {
+      "price": 1.49
+    },
+    "biedronka": {
+      "price": 1.61
+    }
+  },
+  "prod_202": {
+    "id": "prod_202",
+    "name": "Minerálka 1.5l Premium",
+    "desc": "Automaticky vygenerované ceny pre dňa 21.07.2026.",
+    "cat": "napoje",
+    "sub": "nealko",
+    "unit": "€/ks",
+    "onSale": false,
+    "saleUntil": "",
+    "tesco": {
+      "price": 1.7
+    },
+    "billa": {
+      "price": 1.6
+    },
+    "lidl": {
+      "price": 1.76
+    },
+    "kaufland": null,
+    "jednota": null,
+    "biedronka": {
+      "price": 1.86
+    }
+  },
+  "prod_203": {
+    "id": "prod_203",
+    "name": "Kofola 2l Bio",
+    "desc": "Automaticky vygenerované ceny pre dňa 21.07.2026.",
+    "cat": "napoje",
+    "sub": "nealko",
+    "unit": "€/ks",
+    "onSale": false,
+    "saleUntil": "",
+    "tesco": {
+      "price": 3.03
+    },
+    "billa": {
+      "price": 3.09
+    },
+    "lidl": {
+      "price": 2.73
+    },
+    "kaufland": {
+      "price": 3.14
+    },
+    "jednota": null,
+    "biedronka": {
+      "price": 3.47
+    }
+  },
+  "prod_204": {
+    "id": "prod_204",
+    "name": "Kofola 2l Premium",
+    "desc": "Automaticky vygenerované ceny pre dňa 21.07.2026.",
+    "cat": "napoje",
+    "sub": "nealko",
+    "unit": "€/ks",
+    "onSale": true,
+    "saleUntil": "24.07.",
+    "tesco": {
+      "price": 1.17
+    },
+    "billa": null,
+    "lidl": {
+      "price": 1.02
+    },
+    "kaufland": {
+      "price": 0.94
+    },
+    "jednota": null,
+    "biedronka": {
+      "price": 1.15
+    }
+  },
+  "prod_205": {
+    "id": "prod_205",
+    "name": "Minerálka 1.5l Bio",
+    "desc": "Automaticky vygenerované ceny pre dňa 21.07.2026.",
+    "cat": "napoje",
+    "sub": "nealko",
+    "unit": "€/ks",
+    "onSale": false,
+    "saleUntil": "",
+    "tesco": {
+      "price": 2.39
+    },
+    "billa": {
+      "price": 2.45
+    },
+    "lidl": {
+      "price": 2.58
+    },
+    "kaufland": {
+      "price": 2.49
+    },
+    "jednota": {
+      "price": 2.93
+    },
+    "biedronka": {
+      "price": 2.53
+    }
+  },
+  "prod_206": {
+    "id": "prod_206",
+    "name": "Kofola 2l Bio",
+    "desc": "Automaticky vygenerované ceny pre dňa 21.07.2026.",
+    "cat": "napoje",
+    "sub": "nealko",
+    "unit": "€/ks",
+    "onSale": false,
+    "saleUntil": "",
+    "tesco": {
+      "price": 2.67
+    },
+    "billa": null,
+    "lidl": {
+      "price": 2.44
+    },
+    "kaufland": {
+      "price": 2.96
+    },
+    "jednota": {
+      "price": 2.71
+    },
+    "biedronka": null
+  },
+  "prod_207": {
+    "id": "prod_207",
+    "name": "Minerálka 1.5l Premium",
+    "desc": "Automaticky vygenerované ceny pre dňa 21.07.2026.",
+    "cat": "napoje",
+    "sub": "nealko",
+    "unit": "€/ks",
+    "onSale": false,
+    "saleUntil": "",
+    "tesco": null,
+    "billa": {
+      "price": 4.16
+    },
+    "lidl": null,
+    "kaufland": null,
+    "jednota": {
+      "price": 3.96
+    },
+    "biedronka": {
+      "price": 3.81
+    }
+  },
+  "prod_208": {
+    "id": "prod_208",
+    "name": "Minerálka 1.5l Classic",
+    "desc": "Automaticky vygenerované ceny pre dňa 21.07.2026.",
+    "cat": "napoje",
+    "sub": "nealko",
+    "unit": "€/ks",
+    "onSale": false,
+    "saleUntil": "",
+    "tesco": {
+      "price": 2.23
+    },
+    "billa": {
+      "price": 2.61
+    },
+    "lidl": {
+      "price": 2.81
+    },
+    "kaufland": {
+      "price": 2.56
+    },
+    "jednota": {
+      "price": 2.33
+    },
+    "biedronka": {
+      "price": 2.28
+    }
+  },
+  "prod_209": {
+    "id": "prod_209",
+    "name": "Minerálka 1.5l Premium",
+    "desc": "Automaticky vygenerované ceny pre dňa 21.07.2026.",
+    "cat": "napoje",
+    "sub": "nealko",
+    "unit": "€/ks",
+    "onSale": false,
+    "saleUntil": "",
+    "tesco": {
+      "price": 2.45
+    },
+    "billa": {
+      "price": 2.14
+    },
+    "lidl": {
+      "price": 2.07
+    },
+    "kaufland": {
+      "price": 2.21
+    },
+    "jednota": {
+      "price": 2.07
+    },
+    "biedronka": {
+      "price": 2.44
+    }
+  },
+  "prod_210": {
+    "id": "prod_210",
+    "name": "Minerálka 1.5l Classic",
+    "desc": "Automaticky vygenerované ceny pre dňa 21.07.2026.",
+    "cat": "napoje",
+    "sub": "nealko",
+    "unit": "€/ks",
+    "onSale": false,
+    "saleUntil": "",
+    "tesco": {
+      "price": 1.65
+    },
+    "billa": {
+      "price": 1.61
+    },
+    "lidl": {
+      "price": 1.62
+    },
+    "kaufland": {
+      "price": 1.7
+    },
+    "jednota": {
+      "price": 1.79
+    },
+    "biedronka": {
+      "price": 1.71
+    }
+  },
+  "prod_211": {
+    "id": "prod_211",
+    "name": "Minerálka 1.5l Bio",
+    "desc": "Automaticky vygenerované ceny pre dňa 21.07.2026.",
+    "cat": "napoje",
+    "sub": "nealko",
+    "unit": "€/ks",
+    "onSale": false,
+    "saleUntil": "",
+    "tesco": {
+      "price": 2.38
+    },
+    "billa": {
+      "price": 2.99
+    },
+    "lidl": {
+      "price": 2.43
+    },
+    "kaufland": {
+      "price": 2.61
+    },
+    "jednota": {
+      "price": 2.98
+    },
+    "biedronka": {
+      "price": 2.39
+    }
+  },
+  "prod_212": {
+    "id": "prod_212",
+    "name": "Kofola 2l Bio",
+    "desc": "Automaticky vygenerované ceny pre dňa 21.07.2026.",
+    "cat": "napoje",
+    "sub": "nealko",
+    "unit": "€/ks",
+    "onSale": false,
+    "saleUntil": "",
+    "tesco": {
+      "price": 1.57
+    },
+    "billa": {
+      "price": 1.48
+    },
+    "lidl": {
+      "price": 1.9
+    },
+    "kaufland": {
+      "price": 1.86
+    },
+    "jednota": {
+      "price": 1.78
+    },
+    "biedronka": {
+      "price": 1.77
+    }
+  },
+  "prod_213": {
+    "id": "prod_213",
+    "name": "Kofola 2l Premium",
+    "desc": "Automaticky vygenerované ceny pre dňa 21.07.2026.",
+    "cat": "napoje",
+    "sub": "nealko",
+    "unit": "€/ks",
+    "onSale": false,
+    "saleUntil": "",
+    "tesco": {
+      "price": 2.96
+    },
+    "billa": {
+      "price": 2.43
+    },
+    "lidl": null,
+    "kaufland": {
+      "price": 2.57
+    },
+    "jednota": {
+      "price": 2.21
+    },
+    "biedronka": {
+      "price": 2.86
+    }
+  },
+  "prod_214": {
+    "id": "prod_214",
+    "name": "Kofola 2l Bio",
+    "desc": "Automaticky vygenerované ceny pre dňa 21.07.2026.",
+    "cat": "napoje",
+    "sub": "nealko",
+    "unit": "€/ks",
+    "onSale": false,
+    "saleUntil": "",
+    "tesco": {
+      "price": 1.77
+    },
+    "billa": {
+      "price": 1.74
+    },
+    "lidl": {
+      "price": 2.32
+    },
+    "kaufland": {
+      "price": 2.14
+    },
+    "jednota": {
+      "price": 1.76
+    },
+    "biedronka": {
+      "price": 1.89
+    }
+  },
+  "prod_215": {
+    "id": "prod_215",
+    "name": "Minerálka 1.5l Bio",
+    "desc": "Automaticky vygenerované ceny pre dňa 21.07.2026.",
+    "cat": "napoje",
+    "sub": "nealko",
+    "unit": "€/ks",
+    "onSale": false,
+    "saleUntil": "",
+    "tesco": null,
+    "billa": {
+      "price": 2.92
+    },
+    "lidl": {
+      "price": 2.65
+    },
+    "kaufland": {
+      "price": 2.36
+    },
+    "jednota": {
+      "price": 2.58
+    },
+    "biedronka": {
+      "price": 2.55
+    }
+  },
+  "prod_216": {
+    "id": "prod_216",
+    "name": "Kofola 2l Premium",
+    "desc": "Automaticky vygenerované ceny pre dňa 21.07.2026.",
+    "cat": "napoje",
+    "sub": "nealko",
+    "unit": "€/ks",
+    "onSale": false,
+    "saleUntil": "",
+    "tesco": {
+      "price": 1.01
+    },
+    "billa": {
+      "price": 0.91
+    },
+    "lidl": {
+      "price": 0.84
+    },
+    "kaufland": {
+      "price": 0.93
+    },
+    "jednota": {
+      "price": 0.82
+    },
+    "biedronka": {
+      "price": 0.89
+    }
+  },
+  "prod_217": {
+    "id": "prod_217",
+    "name": "Minerálka 1.5l XXL",
+    "desc": "Automaticky vygenerované ceny pre dňa 21.07.2026.",
+    "cat": "napoje",
+    "sub": "nealko",
+    "unit": "€/ks",
+    "onSale": false,
+    "saleUntil": "",
+    "tesco": {
+      "price": 3.25
+    },
+    "billa": {
+      "price": 3.42
+    },
+    "lidl": {
+      "price": 2.95
+    },
+    "kaufland": null,
+    "jednota": {
+      "price": 3.36
+    },
+    "biedronka": null
+  },
+  "prod_218": {
+    "id": "prod_218",
+    "name": "Minerálka 1.5l XXL",
+    "desc": "Automaticky vygenerované ceny pre dňa 21.07.2026.",
+    "cat": "napoje",
+    "sub": "nealko",
+    "unit": "€/ks",
+    "onSale": false,
+    "saleUntil": "",
+    "tesco": {
+      "price": 1.92
+    },
+    "billa": {
+      "price": 1.77
+    },
+    "lidl": null,
+    "kaufland": {
+      "price": 1.73
+    },
+    "jednota": {
+      "price": 1.51
+    },
+    "biedronka": {
+      "price": 1.91
+    }
+  },
+  "prod_219": {
+    "id": "prod_219",
+    "name": "Minerálka 1.5l Classic",
+    "desc": "Automaticky vygenerované ceny pre dňa 21.07.2026.",
+    "cat": "napoje",
+    "sub": "nealko",
+    "unit": "€/ks",
+    "onSale": false,
+    "saleUntil": "",
+    "tesco": null,
+    "billa": {
+      "price": 1.96
+    },
+    "lidl": null,
+    "kaufland": {
+      "price": 1.59
+    },
+    "jednota": {
+      "price": 1.96
+    },
+    "biedronka": {
+      "price": 2.11
+    }
+  },
+  "prod_220": {
+    "id": "prod_220",
+    "name": "Minerálka 1.5l Premium",
+    "desc": "Automaticky vygenerované ceny pre dňa 21.07.2026.",
+    "cat": "napoje",
+    "sub": "nealko",
+    "unit": "€/ks",
+    "onSale": false,
+    "saleUntil": "",
+    "tesco": {
+      "price": 1.12
+    },
+    "billa": {
+      "price": 0.99
+    },
+    "lidl": null,
+    "kaufland": {
+      "price": 0.97
+    },
+    "jednota": {
+      "price": 1.09
+    },
+    "biedronka": {
+      "price": 1.09
+    }
+  },
+  "prod_221": {
+    "id": "prod_221",
+    "name": "Minerálka 1.5l Premium",
+    "desc": "Automaticky vygenerované ceny pre dňa 21.07.2026.",
+    "cat": "napoje",
+    "sub": "nealko",
+    "unit": "€/ks",
+    "onSale": false,
+    "saleUntil": "",
+    "tesco": null,
+    "billa": null,
+    "lidl": {
+      "price": 3.53
+    },
+    "kaufland": {
+      "price": 3.15
+    },
+    "jednota": {
+      "price": 3.61
+    },
+    "biedronka": {
+      "price": 3.45
+    }
+  },
+  "prod_222": {
+    "id": "prod_222",
+    "name": "Kofola 2l Classic",
+    "desc": "Automaticky vygenerované ceny pre dňa 21.07.2026.",
+    "cat": "napoje",
+    "sub": "nealko",
+    "unit": "€/ks",
+    "onSale": false,
+    "saleUntil": "",
+    "tesco": {
+      "price": 1.96
+    },
+    "billa": {
+      "price": 1.92
+    },
+    "lidl": {
+      "price": 2.19
+    },
+    "kaufland": {
+      "price": 1.9
+    },
+    "jednota": {
+      "price": 1.93
+    },
+    "biedronka": {
+      "price": 2.3
+    }
+  },
+  "prod_223": {
+    "id": "prod_223",
+    "name": "Kofola 2l Classic",
+    "desc": "Automaticky vygenerované ceny pre dňa 21.07.2026.",
+    "cat": "napoje",
+    "sub": "nealko",
+    "unit": "€/ks",
+    "onSale": true,
+    "saleUntil": "24.07.",
+    "tesco": null,
+    "billa": {
+      "price": 2.54
+    },
+    "lidl": {
+      "price": 2.64
+    },
+    "kaufland": {
+      "price": 2.57
+    },
+    "jednota": null,
+    "biedronka": {
+      "price": 2.09
+    }
+  },
+  "prod_224": {
+    "id": "prod_224",
+    "name": "Minerálka 1.5l XXL",
+    "desc": "Automaticky vygenerované ceny pre dňa 21.07.2026.",
+    "cat": "napoje",
+    "sub": "nealko",
+    "unit": "€/ks",
+    "onSale": false,
+    "saleUntil": "",
+    "tesco": null,
+    "billa": {
+      "price": 3.42
+    },
+    "lidl": {
+      "price": 3.06
+    },
+    "kaufland": {
+      "price": 2.89
+    },
+    "jednota": {
+      "price": 3.06
+    },
+    "biedronka": {
+      "price": 3.42
+    }
+  },
+  "prod_225": {
+    "id": "prod_225",
+    "name": "Minerálka 1.5l Bio",
+    "desc": "Automaticky vygenerované ceny pre dňa 21.07.2026.",
+    "cat": "napoje",
+    "sub": "nealko",
+    "unit": "€/ks",
+    "onSale": false,
+    "saleUntil": "",
+    "tesco": {
+      "price": 1.75
+    },
+    "billa": null,
+    "lidl": null,
+    "kaufland": {
+      "price": 1.58
+    },
+    "jednota": null,
+    "biedronka": {
+      "price": 1.69
+    }
+  },
+  "prod_226": {
+    "id": "prod_226",
+    "name": "Kofola 2l Classic",
+    "desc": "Automaticky vygenerované ceny pre dňa 21.07.2026.",
+    "cat": "napoje",
+    "sub": "nealko",
+    "unit": "€/ks",
+    "onSale": false,
+    "saleUntil": "",
+    "tesco": {
+      "price": 2.31
+    },
+    "billa": {
+      "price": 2.3
+    },
+    "lidl": {
+      "price": 2.0
+    },
+    "kaufland": null,
+    "jednota": {
+      "price": 2.28
+    },
+    "biedronka": {
+      "price": 2.01
+    }
+  },
+  "prod_227": {
+    "id": "prod_227",
+    "name": "Kofola 2l Classic",
+    "desc": "Automaticky vygenerované ceny pre dňa 21.07.2026.",
+    "cat": "napoje",
+    "sub": "nealko",
+    "unit": "€/ks",
+    "onSale": false,
+    "saleUntil": "",
+    "tesco": null,
+    "billa": {
+      "price": 1.19
+    },
+    "lidl": {
+      "price": 1.55
+    },
+    "kaufland": null,
+    "jednota": {
+      "price": 1.39
+    },
+    "biedronka": {
+      "price": 1.55
+    }
+  },
+  "prod_228": {
+    "id": "prod_228",
+    "name": "Kofola 2l Bio",
+    "desc": "Automaticky vygenerované ceny pre dňa 21.07.2026.",
+    "cat": "napoje",
+    "sub": "nealko",
+    "unit": "€/ks",
+    "onSale": true,
+    "saleUntil": "26.07.",
+    "tesco": {
+      "price": 2.99
+    },
+    "billa": null,
+    "lidl": null,
+    "kaufland": {
+      "price": 3.82
+    },
+    "jednota": null,
+    "biedronka": {
+      "price": 3.34
+    }
+  },
+  "prod_229": {
+    "id": "prod_229",
+    "name": "Minerálka 1.5l Bio",
+    "desc": "Automaticky vygenerované ceny pre dňa 21.07.2026.",
+    "cat": "napoje",
+    "sub": "nealko",
+    "unit": "€/ks",
+    "onSale": false,
+    "saleUntil": "",
+    "tesco": {
+      "price": 0.67
+    },
+    "billa": {
+      "price": 0.74
+    },
+    "lidl": {
+      "price": 0.65
+    },
+    "kaufland": {
+      "price": 0.8
+    },
+    "jednota": {
+      "price": 0.74
+    },
+    "biedronka": null
+  },
+  "prod_230": {
+    "id": "prod_230",
+    "name": "Kofola 2l XXL",
+    "desc": "Automaticky vygenerované ceny pre dňa 21.07.2026.",
+    "cat": "napoje",
+    "sub": "nealko",
+    "unit": "€/ks",
+    "onSale": false,
+    "saleUntil": "",
+    "tesco": {
+      "price": 1.98
+    },
+    "billa": {
+      "price": 2.15
+    },
+    "lidl": {
+      "price": 2.05
+    },
+    "kaufland": {
+      "price": 1.88
+    },
+    "jednota": {
+      "price": 2.06
+    },
+    "biedronka": {
+      "price": 2.3
+    }
+  },
+  "prod_231": {
+    "id": "prod_231",
+    "name": "Kofola 2l XXL",
+    "desc": "Automaticky vygenerované ceny pre dňa 21.07.2026.",
+    "cat": "napoje",
+    "sub": "nealko",
+    "unit": "€/ks",
+    "onSale": false,
+    "saleUntil": "",
+    "tesco": {
+      "price": 0.68
+    },
+    "billa": {
+      "price": 0.75
+    },
+    "lidl": null,
+    "kaufland": null,
+    "jednota": {
+      "price": 0.76
+    },
+    "biedronka": {
+      "price": 0.82
+    }
+  },
+  "prod_232": {
+    "id": "prod_232",
+    "name": "Minerálka 1.5l Premium",
+    "desc": "Automaticky vygenerované ceny pre dňa 21.07.2026.",
+    "cat": "napoje",
+    "sub": "nealko",
+    "unit": "€/ks",
+    "onSale": false,
+    "saleUntil": "",
+    "tesco": {
+      "price": 1.39
+    },
+    "billa": {
+      "price": 1.26
+    },
+    "lidl": {
+      "price": 1.33
+    },
+    "kaufland": {
+      "price": 1.16
+    },
+    "jednota": {
+      "price": 1.46
+    },
+    "biedronka": {
+      "price": 1.19
+    }
+  },
+  "prod_233": {
+    "id": "prod_233",
+    "name": "Kofola 2l XXL",
+    "desc": "Automaticky vygenerované ceny pre dňa 21.07.2026.",
+    "cat": "napoje",
+    "sub": "nealko",
+    "unit": "€/ks",
+    "onSale": false,
+    "saleUntil": "",
+    "tesco": {
+      "price": 3.42
+    },
+    "billa": null,
+    "lidl": {
+      "price": 3.45
+    },
+    "kaufland": {
+      "price": 3.62
+    },
+    "jednota": {
+      "price": 3.67
+    },
+    "biedronka": {
+      "price": 3.36
+    }
+  },
+  "prod_234": {
+    "id": "prod_234",
+    "name": "Minerálka 1.5l XXL",
+    "desc": "Automaticky vygenerované ceny pre dňa 21.07.2026.",
+    "cat": "napoje",
+    "sub": "nealko",
+    "unit": "€/ks",
+    "onSale": false,
+    "saleUntil": "",
+    "tesco": {
+      "price": 1.61
+    },
+    "billa": null,
+    "lidl": {
+      "price": 1.28
+    },
+    "kaufland": {
+      "price": 1.28
+    },
+    "jednota": {
+      "price": 1.22
+    },
+    "biedronka": null
+  },
+  "prod_235": {
+    "id": "prod_235",
+    "name": "Kofola 2l Bio",
+    "desc": "Automaticky vygenerované ceny pre dňa 21.07.2026.",
+    "cat": "napoje",
+    "sub": "nealko",
+    "unit": "€/ks",
+    "onSale": false,
+    "saleUntil": "",
+    "tesco": {
+      "price": 2.87
+    },
+    "billa": {
+      "price": 2.63
+    },
+    "lidl": null,
+    "kaufland": {
+      "price": 2.62
+    },
+    "jednota": null,
+    "biedronka": null
+  },
+  "prod_236": {
+    "id": "prod_236",
+    "name": "Kofola 2l Classic",
+    "desc": "Automaticky vygenerované ceny pre dňa 21.07.2026.",
+    "cat": "napoje",
+    "sub": "nealko",
+    "unit": "€/ks",
+    "onSale": false,
+    "saleUntil": "",
+    "tesco": {
+      "price": 2.13
+    },
+    "billa": {
+      "price": 2.08
+    },
+    "lidl": {
+      "price": 1.76
+    },
+    "kaufland": {
+      "price": 1.91
+    },
+    "jednota": {
+      "price": 1.97
+    },
+    "biedronka": {
+      "price": 2.3
+    }
+  },
+  "prod_237": {
+    "id": "prod_237",
+    "name": "Minerálka 1.5l Bio",
+    "desc": "Automaticky vygenerované ceny pre dňa 21.07.2026.",
+    "cat": "napoje",
+    "sub": "nealko",
+    "unit": "€/ks",
+    "onSale": false,
+    "saleUntil": "",
+    "tesco": {
+      "price": 2.31
+    },
+    "billa": {
+      "price": 2.03
+    },
+    "lidl": {
+      "price": 1.92
+    },
+    "kaufland": {
+      "price": 1.89
+    },
+    "jednota": {
+      "price": 1.81
+    },
+    "biedronka": null
+  },
+  "prod_238": {
+    "id": "prod_238",
+    "name": "Kofola 2l XXL",
+    "desc": "Automaticky vygenerované ceny pre dňa 21.07.2026.",
+    "cat": "napoje",
+    "sub": "nealko",
+    "unit": "€/ks",
+    "onSale": false,
+    "saleUntil": "",
+    "tesco": {
+      "price": 0.63
+    },
+    "billa": {
+      "price": 0.74
+    },
+    "lidl": {
+      "price": 0.67
+    },
+    "kaufland": {
+      "price": 0.72
+    },
+    "jednota": null,
+    "biedronka": {
+      "price": 0.74
+    }
+  },
+  "prod_239": {
+    "id": "prod_239",
+    "name": "Minerálka 1.5l Premium",
+    "desc": "Automaticky vygenerované ceny pre dňa 21.07.2026.",
+    "cat": "napoje",
+    "sub": "nealko",
+    "unit": "€/ks",
+    "onSale": false,
+    "saleUntil": "",
+    "tesco": {
+      "price": 2.13
+    },
+    "billa": null,
+    "lidl": {
+      "price": 2.51
+    },
+    "kaufland": {
+      "price": 2.64
+    },
+    "jednota": {
+      "price": 2.61
+    },
+    "biedronka": {
+      "price": 2.45
+    }
+  },
+  "prod_240": {
+    "id": "prod_240",
+    "name": "Kofola 2l Classic",
+    "desc": "Automaticky vygenerované ceny pre dňa 21.07.2026.",
+    "cat": "napoje",
+    "sub": "nealko",
+    "unit": "€/ks",
+    "onSale": false,
+    "saleUntil": "",
+    "tesco": {
+      "price": 2.09
+    },
+    "billa": {
+      "price": 2.11
+    },
+    "lidl": {
+      "price": 2.07
+    },
+    "kaufland": {
+      "price": 1.74
+    },
+    "jednota": null,
+    "biedronka": null
+  },
+  "prod_241": {
+    "id": "prod_241",
+    "name": "Minerálka 1.5l Classic",
+    "desc": "Automaticky vygenerované ceny pre dňa 21.07.2026.",
+    "cat": "napoje",
+    "sub": "nealko",
+    "unit": "€/ks",
+    "onSale": false,
+    "saleUntil": "",
+    "tesco": {
+      "price": 0.96
+    },
+    "billa": {
+      "price": 0.99
+    },
+    "lidl": {
+      "price": 0.94
+    },
+    "kaufland": {
+      "price": 1.09
+    },
+    "jednota": null,
+    "biedronka": null
+  },
+  "prod_242": {
+    "id": "prod_242",
+    "name": "Kofola 2l Premium",
+    "desc": "Automaticky vygenerované ceny pre dňa 21.07.2026.",
+    "cat": "napoje",
+    "sub": "nealko",
+    "unit": "€/ks",
+    "onSale": false,
+    "saleUntil": "",
+    "tesco": {
+      "price": 2.96
+    },
+    "billa": null,
+    "lidl": {
+      "price": 2.54
+    },
+    "kaufland": {
+      "price": 2.39
+    },
+    "jednota": {
+      "price": 3.09
+    },
+    "biedronka": {
+      "price": 2.76
+    }
+  },
+  "prod_243": {
+    "id": "prod_243",
+    "name": "Minerálka 1.5l Bio",
+    "desc": "Automaticky vygenerované ceny pre dňa 21.07.2026.",
+    "cat": "napoje",
+    "sub": "nealko",
+    "unit": "€/ks",
+    "onSale": false,
+    "saleUntil": "",
+    "tesco": {
+      "price": 1.34
+    },
+    "billa": {
+      "price": 1.39
+    },
+    "lidl": {
+      "price": 1.4
+    },
+    "kaufland": {
+      "price": 1.36
+    },
+    "jednota": {
+      "price": 1.59
+    },
+    "biedronka": {
+      "price": 1.44
+    }
+  },
+  "prod_244": {
+    "id": "prod_244",
+    "name": "Kofola 2l Bio",
+    "desc": "Automaticky vygenerované ceny pre dňa 21.07.2026.",
+    "cat": "napoje",
+    "sub": "nealko",
+    "unit": "€/ks",
+    "onSale": false,
+    "saleUntil": "",
+    "tesco": {
+      "price": 2.82
+    },
+    "billa": {
+      "price": 2.93
+    },
+    "lidl": null,
+    "kaufland": {
+      "price": 3.11
+    },
+    "jednota": {
+      "price": 2.44
+    },
+    "biedronka": {
+      "price": 3.16
+    }
+  },
+  "prod_245": {
+    "id": "prod_245",
+    "name": "Kofola 2l Classic",
+    "desc": "Automaticky vygenerované ceny pre dňa 21.07.2026.",
+    "cat": "napoje",
+    "sub": "nealko",
+    "unit": "€/ks",
+    "onSale": false,
+    "saleUntil": "",
+    "tesco": {
+      "price": 3.26
+    },
+    "billa": {
+      "price": 3.03
+    },
+    "lidl": {
+      "price": 3.8
+    },
+    "kaufland": {
+      "price": 3.16
+    },
+    "jednota": {
+      "price": 3.42
+    },
+    "biedronka": {
+      "price": 3.04
+    }
+  },
+  "prod_246": {
+    "id": "prod_246",
+    "name": "Kofola 2l Classic",
+    "desc": "Automaticky vygenerované ceny pre dňa 21.07.2026.",
+    "cat": "napoje",
+    "sub": "nealko",
+    "unit": "€/ks",
+    "onSale": true,
+    "saleUntil": "28.07.",
+    "tesco": {
+      "price": 2.73
+    },
+    "billa": {
+      "price": 2.17
+    },
+    "lidl": {
+      "price": 2.37
+    },
+    "kaufland": null,
+    "jednota": {
+      "price": 2.38
+    },
+    "biedronka": {
+      "price": 2.4
+    }
+  },
+  "prod_247": {
+    "id": "prod_247",
+    "name": "Minerálka 1.5l XXL",
+    "desc": "Automaticky vygenerované ceny pre dňa 21.07.2026.",
+    "cat": "napoje",
+    "sub": "nealko",
+    "unit": "€/ks",
+    "onSale": false,
+    "saleUntil": "",
+    "tesco": {
+      "price": 0.96
+    },
+    "billa": {
+      "price": 1.01
+    },
+    "lidl": {
+      "price": 0.93
+    },
+    "kaufland": {
+      "price": 0.89
+    },
+    "jednota": {
+      "price": 0.91
+    },
+    "biedronka": null
+  },
+  "prod_248": {
+    "id": "prod_248",
+    "name": "Minerálka 1.5l Classic",
+    "desc": "Automaticky vygenerované ceny pre dňa 21.07.2026.",
+    "cat": "napoje",
+    "sub": "nealko",
+    "unit": "€/ks",
+    "onSale": false,
+    "saleUntil": "",
+    "tesco": {
+      "price": 2.8
+    },
+    "billa": null,
+    "lidl": {
+      "price": 2.85
+    },
+    "kaufland": {
+      "price": 2.8
+    },
+    "jednota": {
+      "price": 2.43
+    },
+    "biedronka": {
+      "price": 2.93
+    }
+  },
+  "prod_249": {
+    "id": "prod_249",
+    "name": "Kofola 2l Bio",
+    "desc": "Automaticky vygenerované ceny pre dňa 21.07.2026.",
+    "cat": "napoje",
+    "sub": "nealko",
+    "unit": "€/ks",
+    "onSale": false,
+    "saleUntil": "",
+    "tesco": {
+      "price": 4.06
+    },
+    "billa": null,
+    "lidl": {
+      "price": 3.06
+    },
+    "kaufland": {
+      "price": 3.28
+    },
+    "jednota": {
+      "price": 3.06
+    },
+    "biedronka": {
+      "price": 3.98
+    }
+  },
+  "prod_250": {
+    "id": "prod_250",
+    "name": "Minerálka 1.5l XXL",
+    "desc": "Automaticky vygenerované ceny pre dňa 21.07.2026.",
+    "cat": "napoje",
+    "sub": "nealko",
+    "unit": "€/ks",
+    "onSale": false,
+    "saleUntil": "",
+    "tesco": {
+      "price": 1.35
+    },
+    "billa": {
+      "price": 1.08
+    },
+    "lidl": {
+      "price": 1.26
+    },
+    "kaufland": {
+      "price": 1.03
+    },
+    "jednota": {
+      "price": 1.09
+    },
+    "biedronka": {
+      "price": 1.12
+    }
+  },
+  "prod_251": {
+    "id": "prod_251",
+    "name": "Víno biele 0.75l XXL",
+    "desc": "Automaticky vygenerované ceny pre dňa 21.07.2026.",
+    "cat": "napoje",
+    "sub": "alko",
+    "unit": "€/ks",
+    "onSale": false,
+    "saleUntil": "",
+    "tesco": null,
+    "billa": {
+      "price": 0.74
+    },
+    "lidl": {
+      "price": 0.75
+    },
+    "kaufland": {
+      "price": 0.88
+    },
+    "jednota": {
+      "price": 0.87
+    },
+    "biedronka": {
+      "price": 0.84
+    }
+  },
+  "prod_252": {
+    "id": "prod_252",
+    "name": "Víno biele 0.75l XXL",
+    "desc": "Automaticky vygenerované ceny pre dňa 21.07.2026.",
+    "cat": "napoje",
+    "sub": "alko",
+    "unit": "€/ks",
+    "onSale": true,
+    "saleUntil": "24.07.",
+    "tesco": {
+      "price": 3.06
+    },
+    "billa": {
+      "price": 3.81
+    },
+    "lidl": {
+      "price": 3.52
+    },
+    "kaufland": {
+      "price": 3.54
+    },
+    "jednota": {
+      "price": 3.44
+    },
+    "biedronka": {
+      "price": 3.82
+    }
+  },
+  "prod_253": {
+    "id": "prod_253",
+    "name": "Víno biele 0.75l Bio",
+    "desc": "Automaticky vygenerované ceny pre dňa 21.07.2026.",
+    "cat": "napoje",
+    "sub": "alko",
+    "unit": "€/ks",
+    "onSale": false,
+    "saleUntil": "",
+    "tesco": {
+      "price": 1.55
+    },
+    "billa": {
+      "price": 1.54
+    },
+    "lidl": {
+      "price": 1.9
+    },
+    "kaufland": null,
+    "jednota": {
+      "price": 1.67
+    },
+    "biedronka": null
+  },
+  "prod_254": {
+    "id": "prod_254",
+    "name": "Víno biele 0.75l Bio",
+    "desc": "Automaticky vygenerované ceny pre dňa 21.07.2026.",
+    "cat": "napoje",
+    "sub": "alko",
+    "unit": "€/ks",
+    "onSale": false,
+    "saleUntil": "",
+    "tesco": null,
+    "billa": {
+      "price": 2.24
+    },
+    "lidl": {
+      "price": 2.24
+    },
+    "kaufland": {
+      "price": 2.31
+    },
+    "jednota": {
+      "price": 2.26
+    },
+    "biedronka": {
+      "price": 1.96
+    }
+  },
+  "prod_255": {
+    "id": "prod_255",
+    "name": "Pivo 12% 0.5l Classic",
+    "desc": "Automaticky vygenerované ceny pre dňa 21.07.2026.",
+    "cat": "napoje",
+    "sub": "alko",
+    "unit": "€/ks",
+    "onSale": false,
+    "saleUntil": "",
+    "tesco": null,
+    "billa": {
+      "price": 3.76
+    },
+    "lidl": {
+      "price": 3.48
+    },
+    "kaufland": null,
+    "jednota": {
+      "price": 3.19
+    },
+    "biedronka": {
+      "price": 3.21
+    }
+  },
+  "prod_256": {
+    "id": "prod_256",
+    "name": "Pivo 12% 0.5l Premium",
+    "desc": "Automaticky vygenerované ceny pre dňa 21.07.2026.",
+    "cat": "napoje",
+    "sub": "alko",
+    "unit": "€/ks",
+    "onSale": false,
+    "saleUntil": "",
+    "tesco": {
+      "price": 1.21
+    },
+    "billa": {
+      "price": 1.09
+    },
+    "lidl": {
+      "price": 1.3
+    },
+    "kaufland": {
+      "price": 1.11
+    },
+    "jednota": {
+      "price": 1.03
+    },
+    "biedronka": {
+      "price": 1.06
+    }
+  },
+  "prod_257": {
+    "id": "prod_257",
+    "name": "Pivo 12% 0.5l Classic",
+    "desc": "Automaticky vygenerované ceny pre dňa 21.07.2026.",
+    "cat": "napoje",
+    "sub": "alko",
+    "unit": "€/ks",
+    "onSale": false,
+    "saleUntil": "",
+    "tesco": {
+      "price": 1.84
+    },
+    "billa": {
+      "price": 2.12
+    },
+    "lidl": {
+      "price": 2.08
+    },
+    "kaufland": {
+      "price": 2.2
+    },
+    "jednota": null,
+    "biedronka": {
+      "price": 1.8
+    }
+  },
+  "prod_258": {
+    "id": "prod_258",
+    "name": "Pivo 12% 0.5l XXL",
+    "desc": "Automaticky vygenerované ceny pre dňa 21.07.2026.",
+    "cat": "napoje",
+    "sub": "alko",
+    "unit": "€/ks",
+    "onSale": true,
+    "saleUntil": "27.07.",
+    "tesco": {
+      "price": 0.67
+    },
+    "billa": {
+      "price": 0.62
+    },
+    "lidl": {
+      "price": 0.62
+    },
+    "kaufland": {
+      "price": 0.69
+    },
+    "jednota": {
+      "price": 0.62
+    },
+    "biedronka": {
+      "price": 0.78
+    }
+  },
+  "prod_259": {
+    "id": "prod_259",
+    "name": "Víno biele 0.75l Premium",
+    "desc": "Automaticky vygenerované ceny pre dňa 21.07.2026.",
+    "cat": "napoje",
+    "sub": "alko",
+    "unit": "€/ks",
+    "onSale": false,
+    "saleUntil": "",
+    "tesco": {
+      "price": 2.86
+    },
+    "billa": {
+      "price": 3.17
+    },
+    "lidl": {
+      "price": 2.54
+    },
+    "kaufland": null,
+    "jednota": {
+      "price": 3.13
+    },
+    "biedronka": {
+      "price": 2.54
+    }
+  },
+  "prod_260": {
+    "id": "prod_260",
+    "name": "Pivo 12% 0.5l Premium",
+    "desc": "Automaticky vygenerované ceny pre dňa 21.07.2026.",
+    "cat": "napoje",
+    "sub": "alko",
+    "unit": "€/ks",
+    "onSale": false,
+    "saleUntil": "",
+    "tesco": {
+      "price": 1.17
+    },
+    "billa": {
+      "price": 1.29
+    },
+    "lidl": null,
+    "kaufland": null,
+    "jednota": {
+      "price": 1.19
+    },
+    "biedronka": {
+      "price": 1.15
+    }
+  },
+  "prod_261": {
+    "id": "prod_261",
+    "name": "Pivo 12% 0.5l XXL",
+    "desc": "Automaticky vygenerované ceny pre dňa 21.07.2026.",
+    "cat": "napoje",
+    "sub": "alko",
+    "unit": "€/ks",
+    "onSale": false,
+    "saleUntil": "",
+    "tesco": {
+      "price": 1.9
+    },
+    "billa": null,
+    "lidl": {
+      "price": 1.79
+    },
+    "kaufland": {
+      "price": 1.77
+    },
+    "jednota": {
+      "price": 1.9
+    },
+    "biedronka": {
+      "price": 1.99
+    }
+  },
+  "prod_262": {
+    "id": "prod_262",
+    "name": "Víno biele 0.75l Premium",
+    "desc": "Automaticky vygenerované ceny pre dňa 21.07.2026.",
+    "cat": "napoje",
+    "sub": "alko",
+    "unit": "€/ks",
+    "onSale": true,
+    "saleUntil": "22.07.",
+    "tesco": {
+      "price": 1.41
+    },
+    "billa": {
+      "price": 1.8
+    },
+    "lidl": {
+      "price": 1.36
+    },
+    "kaufland": {
+      "price": 1.72
+    },
+    "jednota": null,
+    "biedronka": {
+      "price": 1.65
+    }
+  },
+  "prod_263": {
+    "id": "prod_263",
+    "name": "Víno biele 0.75l Premium",
+    "desc": "Automaticky vygenerované ceny pre dňa 21.07.2026.",
+    "cat": "napoje",
+    "sub": "alko",
+    "unit": "€/ks",
+    "onSale": false,
+    "saleUntil": "",
+    "tesco": {
+      "price": 3.3
+    },
+    "billa": {
+      "price": 2.67
+    },
+    "lidl": {
+      "price": 2.7
+    },
+    "kaufland": {
+      "price": 3.15
+    },
+    "jednota": {
+      "price": 3.1
+    },
+    "biedronka": {
+      "price": 2.98
+    }
+  },
+  "prod_264": {
+    "id": "prod_264",
+    "name": "Pivo 12% 0.5l Classic",
+    "desc": "Automaticky vygenerované ceny pre dňa 21.07.2026.",
+    "cat": "napoje",
+    "sub": "alko",
+    "unit": "€/ks",
+    "onSale": false,
+    "saleUntil": "",
+    "tesco": {
+      "price": 1.67
+    },
+    "billa": null,
+    "lidl": {
+      "price": 1.74
+    },
+    "kaufland": {
+      "price": 1.52
+    },
+    "jednota": {
+      "price": 1.34
+    },
+    "biedronka": {
+      "price": 1.4
+    }
+  },
+  "prod_265": {
+    "id": "prod_265",
+    "name": "Pivo 12% 0.5l Premium",
+    "desc": "Automaticky vygenerované ceny pre dňa 21.07.2026.",
+    "cat": "napoje",
+    "sub": "alko",
+    "unit": "€/ks",
+    "onSale": false,
+    "saleUntil": "",
+    "tesco": {
+      "price": 3.63
+    },
+    "billa": {
+      "price": 3.16
+    },
+    "lidl": {
+      "price": 3.42
+    },
+    "kaufland": {
+      "price": 3.48
+    },
+    "jednota": {
+      "price": 2.83
+    },
+    "biedronka": {
+      "price": 3.66
+    }
+  },
+  "prod_266": {
+    "id": "prod_266",
+    "name": "Pivo 12% 0.5l Premium",
+    "desc": "Automaticky vygenerované ceny pre dňa 21.07.2026.",
+    "cat": "napoje",
+    "sub": "alko",
+    "unit": "€/ks",
+    "onSale": true,
+    "saleUntil": "27.07.",
+    "tesco": {
+      "price": 3.73
+    },
+    "billa": {
+      "price": 4.44
+    },
+    "lidl": {
+      "price": 3.5
+    },
+    "kaufland": {
+      "price": 3.69
+    },
+    "jednota": {
+      "price": 4.33
+    },
+    "biedronka": {
+      "price": 3.99
+    }
+  },
+  "prod_267": {
+    "id": "prod_267",
+    "name": "Víno biele 0.75l XXL",
+    "desc": "Automaticky vygenerované ceny pre dňa 21.07.2026.",
+    "cat": "napoje",
+    "sub": "alko",
+    "unit": "€/ks",
+    "onSale": true,
+    "saleUntil": "26.07.",
+    "tesco": {
+      "price": 4.16
+    },
+    "billa": {
+      "price": 4.21
+    },
+    "lidl": {
+      "price": 3.3
+    },
+    "kaufland": {
+      "price": 4.18
+    },
+    "jednota": {
+      "price": 3.58
+    },
+    "biedronka": {
+      "price": 3.58
+    }
+  },
+  "prod_268": {
+    "id": "prod_268",
+    "name": "Víno biele 0.75l XXL",
+    "desc": "Automaticky vygenerované ceny pre dňa 21.07.2026.",
+    "cat": "napoje",
+    "sub": "alko",
+    "unit": "€/ks",
+    "onSale": false,
+    "saleUntil": "",
+    "tesco": {
+      "price": 0.73
+    },
+    "billa": {
+      "price": 0.72
+    },
+    "lidl": {
+      "price": 0.78
+    },
+    "kaufland": null,
+    "jednota": {
+      "price": 0.87
+    },
+    "biedronka": {
+      "price": 0.95
+    }
+  },
+  "prod_269": {
+    "id": "prod_269",
+    "name": "Pivo 12% 0.5l Classic",
+    "desc": "Automaticky vygenerované ceny pre dňa 21.07.2026.",
+    "cat": "napoje",
+    "sub": "alko",
+    "unit": "€/ks",
+    "onSale": false,
+    "saleUntil": "",
+    "tesco": null,
+    "billa": {
+      "price": 2.1
+    },
+    "lidl": {
+      "price": 2.3
+    },
+    "kaufland": {
+      "price": 1.93
+    },
+    "jednota": {
+      "price": 1.74
+    },
+    "biedronka": {
+      "price": 1.78
+    }
+  },
+  "prod_270": {
+    "id": "prod_270",
+    "name": "Víno biele 0.75l XXL",
+    "desc": "Automaticky vygenerované ceny pre dňa 21.07.2026.",
+    "cat": "napoje",
+    "sub": "alko",
+    "unit": "€/ks",
+    "onSale": false,
+    "saleUntil": "",
+    "tesco": {
+      "price": 4.45
+    },
+    "billa": null,
+    "lidl": {
+      "price": 3.76
+    },
+    "kaufland": {
+      "price": 3.51
+    },
+    "jednota": null,
+    "biedronka": {
+      "price": 4.43
+    }
+  },
+  "prod_271": {
+    "id": "prod_271",
+    "name": "Pivo 12% 0.5l Premium",
+    "desc": "Automaticky vygenerované ceny pre dňa 21.07.2026.",
+    "cat": "napoje",
+    "sub": "alko",
+    "unit": "€/ks",
+    "onSale": false,
+    "saleUntil": "",
+    "tesco": {
+      "price": 3.61
+    },
+    "billa": {
+      "price": 3.74
+    },
+    "lidl": {
+      "price": 3.23
+    },
+    "kaufland": null,
+    "jednota": {
+      "price": 3.43
+    },
+    "biedronka": {
+      "price": 3.65
+    }
+  },
+  "prod_272": {
+    "id": "prod_272",
+    "name": "Pivo 12% 0.5l Classic",
+    "desc": "Automaticky vygenerované ceny pre dňa 21.07.2026.",
+    "cat": "napoje",
+    "sub": "alko",
+    "unit": "€/ks",
+    "onSale": false,
+    "saleUntil": "",
+    "tesco": {
+      "price": 1.69
+    },
+    "billa": null,
+    "lidl": {
+      "price": 1.55
+    },
+    "kaufland": null,
+    "jednota": {
+      "price": 1.57
+    },
+    "biedronka": null
+  },
+  "prod_273": {
+    "id": "prod_273",
+    "name": "Víno biele 0.75l XXL",
+    "desc": "Automaticky vygenerované ceny pre dňa 21.07.2026.",
+    "cat": "napoje",
+    "sub": "alko",
+    "unit": "€/ks",
+    "onSale": false,
+    "saleUntil": "",
+    "tesco": {
+      "price": 4.08
+    },
+    "billa": null,
+    "lidl": {
+      "price": 3.3
+    },
+    "kaufland": null,
+    "jednota": {
+      "price": 4.0
+    },
+    "biedronka": {
+      "price": 4.06
+    }
+  },
+  "prod_274": {
+    "id": "prod_274",
+    "name": "Pivo 12% 0.5l Premium",
+    "desc": "Automaticky vygenerované ceny pre dňa 21.07.2026.",
+    "cat": "napoje",
+    "sub": "alko",
+    "unit": "€/ks",
+    "onSale": false,
+    "saleUntil": "",
+    "tesco": {
+      "price": 2.36
+    },
+    "billa": {
+      "price": 2.65
+    },
+    "lidl": {
+      "price": 2.97
+    },
+    "kaufland": {
+      "price": 2.74
+    },
+    "jednota": {
+      "price": 2.79
+    },
+    "biedronka": {
+      "price": 2.29
+    }
+  },
+  "prod_275": {
+    "id": "prod_275",
+    "name": "Víno biele 0.75l Bio",
+    "desc": "Automaticky vygenerované ceny pre dňa 21.07.2026.",
+    "cat": "napoje",
+    "sub": "alko",
+    "unit": "€/ks",
+    "onSale": false,
+    "saleUntil": "",
+    "tesco": {
+      "price": 3.71
+    },
+    "billa": {
+      "price": 4.24
+    },
+    "lidl": {
+      "price": 4.12
+    },
+    "kaufland": {
+      "price": 3.53
+    },
+    "jednota": {
+      "price": 4.33
+    },
+    "biedronka": {
+      "price": 4.17
+    }
+  },
+  "prod_276": {
+    "id": "prod_276",
+    "name": "Pivo 12% 0.5l Premium",
+    "desc": "Automaticky vygenerované ceny pre dňa 21.07.2026.",
+    "cat": "napoje",
+    "sub": "alko",
+    "unit": "€/ks",
+    "onSale": true,
+    "saleUntil": "27.07.",
+    "tesco": {
+      "price": 3.27
+    },
+    "billa": {
+      "price": 2.89
+    },
+    "lidl": {
+      "price": 3.36
+    },
+    "kaufland": {
+      "price": 2.8
+    },
+    "jednota": {
+      "price": 3.29
+    },
+    "biedronka": {
+      "price": 3.01
+    }
+  },
+  "prod_277": {
+    "id": "prod_277",
+    "name": "Víno biele 0.75l XXL",
+    "desc": "Automaticky vygenerované ceny pre dňa 21.07.2026.",
+    "cat": "napoje",
+    "sub": "alko",
+    "unit": "€/ks",
+    "onSale": false,
+    "saleUntil": "",
+    "tesco": null,
+    "billa": {
+      "price": 2.08
+    },
+    "lidl": {
+      "price": 2.68
+    },
+    "kaufland": {
+      "price": 2.59
+    },
+    "jednota": null,
+    "biedronka": null
+  },
+  "prod_278": {
+    "id": "prod_278",
+    "name": "Víno biele 0.75l Premium",
+    "desc": "Automaticky vygenerované ceny pre dňa 21.07.2026.",
+    "cat": "napoje",
+    "sub": "alko",
+    "unit": "€/ks",
+    "onSale": false,
+    "saleUntil": "",
+    "tesco": {
+      "price": 2.33
+    },
+    "billa": {
+      "price": 2.44
+    },
+    "lidl": {
+      "price": 1.96
+    },
+    "kaufland": {
+      "price": 2.37
+    },
+    "jednota": {
+      "price": 2.07
+    },
+    "biedronka": null
+  },
+  "prod_279": {
+    "id": "prod_279",
+    "name": "Pivo 12% 0.5l Bio",
+    "desc": "Automaticky vygenerované ceny pre dňa 21.07.2026.",
+    "cat": "napoje",
+    "sub": "alko",
+    "unit": "€/ks",
+    "onSale": false,
+    "saleUntil": "",
+    "tesco": {
+      "price": 0.81
+    },
+    "billa": {
+      "price": 0.86
+    },
+    "lidl": {
+      "price": 0.82
+    },
+    "kaufland": {
+      "price": 0.88
+    },
+    "jednota": {
+      "price": 0.92
+    },
+    "biedronka": {
+      "price": 0.91
+    }
+  },
+  "prod_280": {
+    "id": "prod_280",
+    "name": "Pivo 12% 0.5l Classic",
+    "desc": "Automaticky vygenerované ceny pre dňa 21.07.2026.",
+    "cat": "napoje",
+    "sub": "alko",
+    "unit": "€/ks",
+    "onSale": false,
+    "saleUntil": "",
+    "tesco": null,
+    "billa": {
+      "price": 1.25
+    },
+    "lidl": {
+      "price": 1.49
+    },
+    "kaufland": {
+      "price": 1.4
+    },
+    "jednota": {
+      "price": 1.29
+    },
+    "biedronka": {
+      "price": 1.27
+    }
+  },
+  "prod_281": {
+    "id": "prod_281",
+    "name": "Víno biele 0.75l Premium",
+    "desc": "Automaticky vygenerované ceny pre dňa 21.07.2026.",
+    "cat": "napoje",
+    "sub": "alko",
+    "unit": "€/ks",
+    "onSale": false,
+    "saleUntil": "",
+    "tesco": {
+      "price": 1.86
+    },
+    "billa": {
+      "price": 1.69
+    },
+    "lidl": {
+      "price": 1.88
+    },
+    "kaufland": {
+      "price": 1.54
+    },
+    "jednota": {
+      "price": 1.92
+    },
+    "biedronka": {
+      "price": 1.66
+    }
+  },
+  "prod_282": {
+    "id": "prod_282",
+    "name": "Víno biele 0.75l Classic",
+    "desc": "Automaticky vygenerované ceny pre dňa 21.07.2026.",
+    "cat": "napoje",
+    "sub": "alko",
+    "unit": "€/ks",
+    "onSale": false,
+    "saleUntil": "",
+    "tesco": {
+      "price": 3.69
+    },
+    "billa": {
+      "price": 3.46
+    },
+    "lidl": {
+      "price": 4.44
+    },
+    "kaufland": {
+      "price": 4.23
+    },
+    "jednota": {
+      "price": 3.48
+    },
+    "biedronka": {
+      "price": 3.69
+    }
+  },
+  "prod_283": {
+    "id": "prod_283",
+    "name": "Víno biele 0.75l Premium",
+    "desc": "Automaticky vygenerované ceny pre dňa 21.07.2026.",
+    "cat": "napoje",
+    "sub": "alko",
+    "unit": "€/ks",
+    "onSale": false,
+    "saleUntil": "",
+    "tesco": {
+      "price": 0.85
+    },
+    "billa": {
+      "price": 0.96
+    },
+    "lidl": {
+      "price": 1.03
+    },
+    "kaufland": {
+      "price": 1.0
+    },
+    "jednota": {
+      "price": 0.96
+    },
+    "biedronka": {
+      "price": 0.85
+    }
+  },
+  "prod_284": {
+    "id": "prod_284",
+    "name": "Víno biele 0.75l Classic",
+    "desc": "Automaticky vygenerované ceny pre dňa 21.07.2026.",
+    "cat": "napoje",
+    "sub": "alko",
+    "unit": "€/ks",
+    "onSale": false,
+    "saleUntil": "",
+    "tesco": {
+      "price": 2.7
+    },
+    "billa": {
+      "price": 3.02
+    },
+    "lidl": {
+      "price": 3.4
+    },
+    "kaufland": {
+      "price": 2.89
+    },
+    "jednota": {
+      "price": 3.03
+    },
+    "biedronka": {
+      "price": 3.3
+    }
+  },
+  "prod_285": {
+    "id": "prod_285",
+    "name": "Víno biele 0.75l Premium",
+    "desc": "Automaticky vygenerované ceny pre dňa 21.07.2026.",
+    "cat": "napoje",
+    "sub": "alko",
+    "unit": "€/ks",
+    "onSale": false,
+    "saleUntil": "",
+    "tesco": {
+      "price": 1.69
+    },
+    "billa": {
+      "price": 1.47
+    },
+    "lidl": {
+      "price": 1.92
+    },
+    "kaufland": {
+      "price": 1.51
+    },
+    "jednota": {
+      "price": 1.49
+    },
+    "biedronka": {
+      "price": 1.82
+    }
+  },
+  "prod_286": {
+    "id": "prod_286",
+    "name": "Pivo 12% 0.5l Bio",
+    "desc": "Automaticky vygenerované ceny pre dňa 21.07.2026.",
+    "cat": "napoje",
+    "sub": "alko",
+    "unit": "€/ks",
+    "onSale": false,
+    "saleUntil": "",
+    "tesco": {
+      "price": 3.4
+    },
+    "billa": {
+      "price": 4.14
+    },
+    "lidl": {
+      "price": 3.54
+    },
+    "kaufland": {
+      "price": 3.88
+    },
+    "jednota": null,
+    "biedronka": {
+      "price": 3.93
+    }
+  },
+  "prod_287": {
+    "id": "prod_287",
+    "name": "Pivo 12% 0.5l Premium",
+    "desc": "Automaticky vygenerované ceny pre dňa 21.07.2026.",
+    "cat": "napoje",
+    "sub": "alko",
+    "unit": "€/ks",
+    "onSale": false,
+    "saleUntil": "",
+    "tesco": {
+      "price": 1.04
+    },
+    "billa": {
+      "price": 1.08
+    },
+    "lidl": {
+      "price": 0.93
+    },
+    "kaufland": {
+      "price": 0.91
+    },
+    "jednota": {
+      "price": 1.03
+    },
+    "biedronka": {
+      "price": 1.13
+    }
+  },
+  "prod_288": {
+    "id": "prod_288",
+    "name": "Víno biele 0.75l Classic",
+    "desc": "Automaticky vygenerované ceny pre dňa 21.07.2026.",
+    "cat": "napoje",
+    "sub": "alko",
+    "unit": "€/ks",
+    "onSale": false,
+    "saleUntil": "",
+    "tesco": null,
+    "billa": {
+      "price": 4.46
+    },
+    "lidl": {
+      "price": 3.7
+    },
+    "kaufland": {
+      "price": 4.5
+    },
+    "jednota": {
+      "price": 4.0
+    },
+    "biedronka": {
+      "price": 4.51
+    }
+  },
+  "prod_289": {
+    "id": "prod_289",
+    "name": "Pivo 12% 0.5l Classic",
+    "desc": "Automaticky vygenerované ceny pre dňa 21.07.2026.",
+    "cat": "napoje",
+    "sub": "alko",
+    "unit": "€/ks",
+    "onSale": false,
+    "saleUntil": "",
+    "tesco": {
+      "price": 3.59
+    },
+    "billa": null,
+    "lidl": null,
+    "kaufland": {
+      "price": 4.17
+    },
+    "jednota": {
+      "price": 4.11
+    },
+    "biedronka": {
+      "price": 3.86
+    }
+  },
+  "prod_290": {
+    "id": "prod_290",
+    "name": "Víno biele 0.75l Premium",
+    "desc": "Automaticky vygenerované ceny pre dňa 21.07.2026.",
+    "cat": "napoje",
+    "sub": "alko",
+    "unit": "€/ks",
+    "onSale": false,
+    "saleUntil": "",
+    "tesco": {
+      "price": 1.67
+    },
+    "billa": {
+      "price": 1.99
+    },
+    "lidl": null,
+    "kaufland": {
+      "price": 1.72
+    },
+    "jednota": null,
+    "biedronka": {
+      "price": 1.58
+    }
+  },
+  "prod_291": {
+    "id": "prod_291",
+    "name": "Víno biele 0.75l Classic",
+    "desc": "Automaticky vygenerované ceny pre dňa 21.07.2026.",
+    "cat": "napoje",
+    "sub": "alko",
+    "unit": "€/ks",
+    "onSale": false,
+    "saleUntil": "",
+    "tesco": {
+      "price": 2.28
+    },
+    "billa": {
+      "price": 2.26
+    },
+    "lidl": {
+      "price": 2.25
+    },
+    "kaufland": null,
+    "jednota": {
+      "price": 2.66
+    },
+    "biedronka": {
+      "price": 2.69
+    }
+  },
+  "prod_292": {
+    "id": "prod_292",
+    "name": "Víno biele 0.75l Premium",
+    "desc": "Automaticky vygenerované ceny pre dňa 21.07.2026.",
+    "cat": "napoje",
+    "sub": "alko",
+    "unit": "€/ks",
+    "onSale": true,
+    "saleUntil": "26.07.",
+    "tesco": null,
+    "billa": {
+      "price": 3.08
+    },
+    "lidl": {
+      "price": 3.67
+    },
+    "kaufland": {
+      "price": 3.4
+    },
+    "jednota": {
+      "price": 3.65
+    },
+    "biedronka": {
+      "price": 3.34
+    }
+  },
+  "prod_293": {
+    "id": "prod_293",
+    "name": "Pivo 12% 0.5l XXL",
+    "desc": "Automaticky vygenerované ceny pre dňa 21.07.2026.",
+    "cat": "napoje",
+    "sub": "alko",
+    "unit": "€/ks",
+    "onSale": false,
+    "saleUntil": "",
+    "tesco": null,
+    "billa": {
+      "price": 4.42
+    },
+    "lidl": {
+      "price": 3.37
+    },
+    "kaufland": {
+      "price": 4.13
+    },
+    "jednota": {
+      "price": 4.08
+    },
+    "biedronka": {
+      "price": 3.84
+    }
+  },
+  "prod_294": {
+    "id": "prod_294",
+    "name": "Pivo 12% 0.5l XXL",
+    "desc": "Automaticky vygenerované ceny pre dňa 21.07.2026.",
+    "cat": "napoje",
+    "sub": "alko",
+    "unit": "€/ks",
+    "onSale": false,
+    "saleUntil": "",
+    "tesco": {
+      "price": 3.79
+    },
+    "billa": null,
+    "lidl": {
+      "price": 3.17
+    },
+    "kaufland": {
+      "price": 3.56
+    },
+    "jednota": null,
+    "biedronka": {
+      "price": 3.69
+    }
+  },
+  "prod_295": {
+    "id": "prod_295",
+    "name": "Pivo 12% 0.5l Bio",
+    "desc": "Automaticky vygenerované ceny pre dňa 21.07.2026.",
+    "cat": "napoje",
+    "sub": "alko",
+    "unit": "€/ks",
+    "onSale": false,
+    "saleUntil": "",
+    "tesco": {
+      "price": 2.57
+    },
+    "billa": null,
+    "lidl": {
+      "price": 2.58
+    },
+    "kaufland": {
+      "price": 2.52
+    },
+    "jednota": {
+      "price": 2.72
+    },
+    "biedronka": {
+      "price": 2.59
+    }
+  },
+  "prod_296": {
+    "id": "prod_296",
+    "name": "Pivo 12% 0.5l Classic",
+    "desc": "Automaticky vygenerované ceny pre dňa 21.07.2026.",
+    "cat": "napoje",
+    "sub": "alko",
+    "unit": "€/ks",
+    "onSale": false,
+    "saleUntil": "",
+    "tesco": {
+      "price": 2.43
+    },
+    "billa": {
+      "price": 3.08
+    },
+    "lidl": {
+      "price": 3.07
+    },
+    "kaufland": {
+      "price": 2.34
+    },
+    "jednota": {
+      "price": 2.7
+    },
+    "biedronka": {
+      "price": 2.89
+    }
+  },
+  "prod_297": {
+    "id": "prod_297",
+    "name": "Pivo 12% 0.5l XXL",
+    "desc": "Automaticky vygenerované ceny pre dňa 21.07.2026.",
+    "cat": "napoje",
+    "sub": "alko",
+    "unit": "€/ks",
+    "onSale": false,
+    "saleUntil": "",
+    "tesco": {
+      "price": 2.0
+    },
+    "billa": {
+      "price": 2.51
+    },
+    "lidl": {
+      "price": 2.25
+    },
+    "kaufland": {
+      "price": 2.12
+    },
+    "jednota": {
+      "price": 2.15
+    },
+    "biedronka": null
+  },
+  "prod_298": {
+    "id": "prod_298",
+    "name": "Pivo 12% 0.5l XXL",
+    "desc": "Automaticky vygenerované ceny pre dňa 21.07.2026.",
+    "cat": "napoje",
+    "sub": "alko",
+    "unit": "€/ks",
+    "onSale": false,
+    "saleUntil": "",
+    "tesco": {
+      "price": 1.72
+    },
+    "billa": null,
+    "lidl": {
+      "price": 1.85
+    },
+    "kaufland": {
+      "price": 2.09
+    },
+    "jednota": {
+      "price": 2.26
+    },
+    "biedronka": {
+      "price": 1.92
+    }
+  },
+  "prod_299": {
+    "id": "prod_299",
+    "name": "Pivo 12% 0.5l Bio",
+    "desc": "Automaticky vygenerované ceny pre dňa 21.07.2026.",
+    "cat": "napoje",
+    "sub": "alko",
+    "unit": "€/ks",
+    "onSale": false,
+    "saleUntil": "",
+    "tesco": {
+      "price": 2.62
+    },
+    "billa": {
+      "price": 3.17
+    },
+    "lidl": {
+      "price": 3.14
+    },
+    "kaufland": null,
+    "jednota": {
+      "price": 3.03
+    },
+    "biedronka": {
+      "price": 2.98
+    }
+  },
+  "prod_300": {
+    "id": "prod_300",
+    "name": "Pivo 12% 0.5l XXL",
+    "desc": "Automaticky vygenerované ceny pre dňa 21.07.2026.",
+    "cat": "napoje",
+    "sub": "alko",
+    "unit": "€/ks",
+    "onSale": false,
+    "saleUntil": "",
+    "tesco": {
+      "price": 1.55
+    },
+    "billa": null,
+    "lidl": null,
+    "kaufland": {
+      "price": 1.5
+    },
+    "jednota": {
+      "price": 1.74
+    },
+    "biedronka": null
+  }
+}
